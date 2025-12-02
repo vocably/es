@@ -1,0 +1,4 @@
+stuck
+jammed
+blocked
+caught

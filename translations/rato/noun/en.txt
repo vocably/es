@@ -1,0 +1,4 @@
+while
+moment
+bit
+time

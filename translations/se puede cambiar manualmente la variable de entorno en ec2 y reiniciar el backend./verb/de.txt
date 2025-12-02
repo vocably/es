@@ -1,0 +1,2 @@
+man kann die umgebungsvariable in ec manuell ändern und das backend neu starten.
+die umgebungsvariable kann in ec manuell geändert und das backend neu gestartet werden.

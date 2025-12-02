@@ -1,0 +1,4 @@
+bathe
+give a bath
+take a bath
+shower

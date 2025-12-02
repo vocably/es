@@ -1,0 +1,4 @@
+delivery
+he/she/it delivers
+he/she/it is delivering
+he/she/it does deliver

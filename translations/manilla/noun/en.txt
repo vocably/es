@@ -1,0 +1,5 @@
+handle
+bracelet
+wristband
+door handle
+lever

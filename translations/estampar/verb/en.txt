@@ -1,0 +1,5 @@
+stamp
+print
+imprint
+press
+smash

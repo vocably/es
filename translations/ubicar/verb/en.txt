@@ -1,0 +1,4 @@
+locate
+place
+situate
+position

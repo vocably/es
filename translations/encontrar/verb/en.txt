@@ -1,0 +1,5 @@
+find
+meet
+encounter
+locate
+discover

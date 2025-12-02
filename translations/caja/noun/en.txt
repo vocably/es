@@ -1,0 +1,4 @@
+box
+cash register
+crate
+case

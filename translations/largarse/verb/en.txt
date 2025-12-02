@@ -1,0 +1,5 @@
+leave
+scram
+clear off
+take off
+get out

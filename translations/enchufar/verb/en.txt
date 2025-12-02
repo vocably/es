@@ -1,0 +1,4 @@
+plug in
+connect
+switch on
+insert

@@ -1,0 +1,4 @@
+aptitude
+ability
+skill
+talent

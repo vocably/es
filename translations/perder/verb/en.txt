@@ -1,0 +1,4 @@
+lose
+miss
+waste
+forfeit

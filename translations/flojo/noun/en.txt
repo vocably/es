@@ -1,0 +1,4 @@
+loose
+lazy
+slack
+weak

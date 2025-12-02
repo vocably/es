@@ -1,0 +1,4 @@
+tape
+ribbon
+film
+strip

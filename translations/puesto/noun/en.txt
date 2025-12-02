@@ -1,0 +1,5 @@
+position
+place
+post
+stall
+job

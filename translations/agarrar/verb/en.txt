@@ -1,0 +1,6 @@
+grab
+catch
+seize
+grasp
+hold
+take

@@ -1,0 +1,3 @@
+taster
+sampler
+tester

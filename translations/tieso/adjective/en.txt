@@ -1,0 +1,5 @@
+stiff
+rigid
+upright
+frozen
+broke

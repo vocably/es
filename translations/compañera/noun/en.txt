@@ -1,0 +1,6 @@
+companion
+partner
+colleague
+friend
+classmate
+teammate

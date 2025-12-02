@@ -1,0 +1,4 @@
+rot
+decay
+spoil
+decompose

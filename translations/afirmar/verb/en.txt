@@ -1,0 +1,5 @@
+affirm
+assert
+state
+claim
+declare

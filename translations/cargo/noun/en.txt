@@ -1,0 +1,6 @@
+position
+charge
+load
+duty
+office
+responsibility

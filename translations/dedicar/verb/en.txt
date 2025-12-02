@@ -1,0 +1,4 @@
+dedicate
+devote
+assign
+allocate

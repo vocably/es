@@ -1,0 +1,8 @@
+carry
+take
+wear
+bring
+lead
+bear
+conduct
+support

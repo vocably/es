@@ -1,0 +1,6 @@
+walk
+go
+ride
+move
+function
+run

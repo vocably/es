@@ -1,0 +1,5 @@
+order
+command
+arrangement
+sequence
+tidiness

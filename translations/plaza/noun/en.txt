@@ -1,0 +1,4 @@
+square
+plaza
+seat
+marketplace

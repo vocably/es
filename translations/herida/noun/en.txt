@@ -1,0 +1,4 @@
+wound
+injury
+cut
+lesion

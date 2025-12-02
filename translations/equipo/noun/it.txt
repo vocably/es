@@ -1,0 +1,3 @@
+squadra
+attrezzatura
+team

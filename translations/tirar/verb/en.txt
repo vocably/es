@@ -1,0 +1,8 @@
+throw
+drop
+pull
+toss
+shoot
+discard
+waste
+launch

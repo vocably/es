@@ -1,0 +1,8 @@
+leave
+let
+allow
+quit
+abandon
+stop
+drop
+give up

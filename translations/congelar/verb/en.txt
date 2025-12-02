@@ -1,0 +1,5 @@
+freeze
+to freeze
+freezing
+froze
+frozen

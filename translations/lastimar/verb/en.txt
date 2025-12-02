@@ -1,0 +1,4 @@
+hurt
+injure
+harm
+wound

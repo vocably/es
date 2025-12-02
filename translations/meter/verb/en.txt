@@ -1,0 +1,7 @@
+put
+insert
+place
+stick
+get
+bring
+score

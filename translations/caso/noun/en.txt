@@ -1,0 +1,5 @@
+case
+instance
+event
+situation
+matter

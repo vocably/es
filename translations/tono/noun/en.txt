@@ -1,0 +1,5 @@
+tone
+shade
+manner
+pitch
+hue

@@ -1,0 +1,4 @@
+toilet
+lavatory
+restroom
+loo

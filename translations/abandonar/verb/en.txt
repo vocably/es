@@ -1,0 +1,4 @@
+abandon
+leave
+desert
+quit

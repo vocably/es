@@ -1,0 +1,3 @@
+armchair
+chair
+seat

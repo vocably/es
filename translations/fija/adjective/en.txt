@@ -1,0 +1,5 @@
+fixed
+steady
+set
+firm
+permanent

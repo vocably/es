@@ -1,0 +1,9 @@
+speak
+talk
+speaking
+talking
+spoke
+talked
+speaks
+talks
+spoken

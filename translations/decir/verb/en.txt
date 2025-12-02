@@ -1,0 +1,5 @@
+say
+tell
+speak
+state
+mention

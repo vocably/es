@@ -1,0 +1,6 @@
+eliminate
+remove
+delete
+erase
+clear
+terminate

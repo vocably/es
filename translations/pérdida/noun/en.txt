@@ -1,0 +1,4 @@
+loss
+waste
+damage
+deprivation

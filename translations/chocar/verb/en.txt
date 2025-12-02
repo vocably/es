@@ -1,0 +1,4 @@
+crash
+collide
+clash
+bump

@@ -1,0 +1,4 @@
+devices
+appliances
+gadgets
+apparatuses

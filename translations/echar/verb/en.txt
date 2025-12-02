@@ -1,0 +1,10 @@
+throw
+pour
+toss
+cast
+expel
+emit
+send
+drop
+add
+put

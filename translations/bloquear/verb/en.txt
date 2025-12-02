@@ -1,0 +1,5 @@
+block
+obstruct
+jam
+clog
+freeze

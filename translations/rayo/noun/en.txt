@@ -1,0 +1,4 @@
+ray
+bolt
+beam
+flash

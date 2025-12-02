@@ -1,0 +1,4 @@
+speaks
+talks
+is speaking
+is talking

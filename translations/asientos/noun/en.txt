@@ -1,0 +1,5 @@
+seats
+chairs
+benches
+places
+entries

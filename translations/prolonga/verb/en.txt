@@ -1,0 +1,4 @@
+extends
+prolongs
+lengthens
+delays

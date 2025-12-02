@@ -1,0 +1,5 @@
+tours
+routes
+journeys
+trips
+circuits

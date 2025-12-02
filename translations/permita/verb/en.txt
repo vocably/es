@@ -1,0 +1,4 @@
+allows
+permits
+let
+authorize

@@ -1,0 +1,4 @@
+pulverize
+crush
+grind
+atomize

@@ -1,0 +1,4 @@
+shores
+banks
+edges
+margins

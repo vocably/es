@@ -1,0 +1,7 @@
+shot
+throw
+kick
+gunshot
+firing
+stroke
+pull

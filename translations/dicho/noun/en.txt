@@ -1,0 +1,4 @@
+saying
+proverb
+remark
+expression

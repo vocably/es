@@ -1,0 +1,8 @@
+painting
+picture
+square
+frame
+scene
+chart
+board
+plaque

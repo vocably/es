@@ -1,0 +1,7 @@
+throw
+toss
+cast
+hurl
+emit
+spew
+shed

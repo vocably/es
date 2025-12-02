@@ -1,0 +1,5 @@
+route
+tour
+journey
+trip
+itinerary
