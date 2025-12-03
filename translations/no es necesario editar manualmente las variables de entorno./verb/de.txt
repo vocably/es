@@ -1,3 +1,0 @@
-es ist nicht notwendig, die umgebungsvariablen manuell zu bearbeiten.
-es ist nicht nötig, die umgebungsvariablen manuell zu bearbeiten.
-es ist nicht erforderlich, die umgebungsvariablen manuell zu bearbeiten.
