@@ -1,0 +1,4 @@
+vibrate
+thrill
+quiver
+pulsate
