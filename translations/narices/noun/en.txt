@@ -1,0 +1,7 @@
+nose
+snout
+smell
+scent
+front
+bow
+prow

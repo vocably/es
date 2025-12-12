@@ -1,0 +1,5 @@
+mobility
+transport
+movement
+locomotion
+ease of movement

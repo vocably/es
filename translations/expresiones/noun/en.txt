@@ -1,0 +1,8 @@
+expressions
+utterances
+statements
+remarks
+manifestations
+demonstrations
+gestures
+movements

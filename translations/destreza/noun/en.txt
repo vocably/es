@@ -1,0 +1,8 @@
+skill
+dexterity
+ability
+adroitness
+craft
+art
+mastery
+prowess

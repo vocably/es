@@ -1,0 +1,5 @@
+window
+teller window
+booth
+car window
+train window

@@ -1,0 +1,7 @@
+Ding
+Sache
+Angelegenheit
+Gegenstand
+Besitz
+Kreatur
+Wesen

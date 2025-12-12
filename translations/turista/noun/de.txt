@@ -1,0 +1,7 @@
+der Tourist
+die Touristin
+der Reisende
+die Reisende
+der Besucher
+die Besucherin
+der Gast

@@ -1,0 +1,4 @@
+assign
+allocate
+appoint
+designate

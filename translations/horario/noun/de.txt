@@ -1,0 +1,5 @@
+der Zeitplan
+der Stundenplan
+der Fahrplan
+die Arbeitszeit
+die Öffnungszeiten

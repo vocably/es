@@ -1,0 +1,4 @@
+window
+ticket window
+teller window
+booth

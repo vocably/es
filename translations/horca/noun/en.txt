@@ -1,0 +1,5 @@
+gallows
+fork
+gibbet
+pitchfork
+hangman's noose

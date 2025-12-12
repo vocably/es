@@ -1,0 +1,6 @@
+dialogues
+conversations
+discussions
+talks
+scripts
+plays

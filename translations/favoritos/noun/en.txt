@@ -1,0 +1,5 @@
+favorites
+bookmarks
+preferred items
+favorite people
+favorite things

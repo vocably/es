@@ -1,0 +1,10 @@
+bright
+clear
+light
+obvious
+pale
+understandable
+evident
+plain
+distinct
+lucid

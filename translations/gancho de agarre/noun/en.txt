@@ -1,0 +1,3 @@
+grappling hook
+grab hook
+claw hook

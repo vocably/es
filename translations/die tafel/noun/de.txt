@@ -1,0 +1,5 @@
+die Tafel
+der Tisch
+das Brett
+der Schalter
+der Tresen

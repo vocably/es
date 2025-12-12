@@ -1,0 +1,4 @@
+tire
+wheel
+tyre
+tread

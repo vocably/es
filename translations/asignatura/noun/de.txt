@@ -1,0 +1,4 @@
+das Fach
+das Unterrichtsfach
+das Studienfach
+das Lehrfach

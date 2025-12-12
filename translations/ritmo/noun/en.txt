@@ -1,0 +1,5 @@
+rhythm
+beat
+tempo
+cadence
+pattern

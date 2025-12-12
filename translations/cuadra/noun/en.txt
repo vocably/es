@@ -1,0 +1,5 @@
+block
+stable
+city block
+yard
+corral

@@ -1,0 +1,6 @@
+Tisch
+Esstisch
+Schreibtisch
+Konferenztisch
+Tafel
+Gremium

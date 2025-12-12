@@ -1,0 +1,5 @@
+drink
+beverage
+alcoholic drink
+soft drink
+soda

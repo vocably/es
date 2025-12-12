@@ -1,0 +1,7 @@
+message
+note
+word
+dispatch
+report
+lesson
+moral

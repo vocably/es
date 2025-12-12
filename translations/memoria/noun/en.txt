@@ -1,0 +1,5 @@
+memory
+report
+paper
+memoir
+storage

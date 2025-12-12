@@ -1,0 +1,8 @@
+skid
+sideslip
+swerve
+slip
+mistake
+error
+blunder
+gaffe

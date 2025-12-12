@@ -1,0 +1,5 @@
+stagnate
+halt
+block
+dam
+stall
