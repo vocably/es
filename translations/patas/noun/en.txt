@@ -1,0 +1,4 @@
+legs
+paws
+feet
+hooves

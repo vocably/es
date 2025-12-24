@@ -1,0 +1,4 @@
+medal
+award
+decoration
+prize

@@ -1,0 +1,4 @@
+terminal
+gare
+station
+borne

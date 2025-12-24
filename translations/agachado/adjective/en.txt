@@ -1,0 +1,5 @@
+bent
+crouching
+stooping
+ducking
+squatting

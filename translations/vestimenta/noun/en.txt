@@ -1,0 +1,5 @@
+clothing
+garment
+attire
+dress
+outfit

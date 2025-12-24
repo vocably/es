@@ -1,0 +1,7 @@
+endurance
+stamina
+resilience
+tolerance
+patience
+support
+backing

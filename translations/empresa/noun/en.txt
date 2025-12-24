@@ -1,0 +1,7 @@
+company
+firm
+business
+enterprise
+undertaking
+endeavor
+project

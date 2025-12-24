@@ -1,0 +1,5 @@
+dismissal
+firing
+layoff
+termination
+severance

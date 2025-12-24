@@ -1,0 +1,4 @@
+enveloppe
+pochette
+couverture
+chemise

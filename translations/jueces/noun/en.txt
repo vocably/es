@@ -1,0 +1,5 @@
+judges
+justices
+referees
+umpires
+jurors

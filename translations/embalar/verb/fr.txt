@@ -1,0 +1,5 @@
+emballer
+conditionner
+paqueter
+accélérer
+démarrer en flèche

@@ -1,0 +1,6 @@
+dwarf
+midget
+undersized
+miniature
+small
+pygmy

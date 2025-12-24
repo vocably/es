@@ -1,0 +1,3 @@
+chimney
+fireplace
+flue

@@ -1,0 +1,5 @@
+taille
+dimension
+ampleur
+grandeur
+importance

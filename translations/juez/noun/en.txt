@@ -1,0 +1,5 @@
+judge
+referee
+umpire
+arbiter
+critic

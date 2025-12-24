@@ -1,0 +1,4 @@
+feelings
+emotions
+sentiment
+sensation

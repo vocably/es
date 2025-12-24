@@ -1,0 +1,5 @@
+medal
+award
+decoration
+badge
+insignia

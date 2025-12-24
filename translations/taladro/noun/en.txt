@@ -1,0 +1,6 @@
+drill
+bore
+auger
+bit
+borer
+null

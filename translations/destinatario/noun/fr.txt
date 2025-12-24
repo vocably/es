@@ -1,0 +1,4 @@
+destinataire
+bénéficiaire
+récepteur
+allocataire

@@ -1,0 +1,5 @@
+poste de pilotage
+cabine de pilotage
+cockpit
+poste de commande
+cabine de commande

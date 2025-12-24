@@ -1,0 +1,4 @@
+ranch
+ranch hand
+country
+rural

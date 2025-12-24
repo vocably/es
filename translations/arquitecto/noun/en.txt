@@ -1,0 +1,5 @@
+architect
+designer
+planner
+creator
+mastermind

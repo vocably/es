@@ -1,0 +1,5 @@
+tirer
+sortir
+obtenir
+enlever
+prendre

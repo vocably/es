@@ -1,0 +1,4 @@
+ticket
+banknote
+bill
+lottery ticket

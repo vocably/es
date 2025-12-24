@@ -1,0 +1,4 @@
+banknotes
+bills
+tickets
+notes

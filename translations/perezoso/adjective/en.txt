@@ -1,0 +1,5 @@
+lazy
+idle
+slothful
+slow
+laggard

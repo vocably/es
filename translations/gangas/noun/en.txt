@@ -1,0 +1,4 @@
+bargains
+deals
+steals
+specials

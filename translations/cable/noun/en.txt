@@ -1,0 +1,5 @@
+cable
+cord
+wire
+line
+telegram

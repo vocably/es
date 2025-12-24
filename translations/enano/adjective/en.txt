@@ -1,0 +1,5 @@
+dwarf
+tiny
+midget
+undersized
+pint-sized

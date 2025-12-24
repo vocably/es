@@ -1,0 +1,5 @@
+expired
+overdue
+defeated
+matured
+lapsed

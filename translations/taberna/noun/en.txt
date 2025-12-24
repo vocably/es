@@ -1,0 +1,5 @@
+tavern
+pub
+bar
+inn
+saloon

@@ -1,0 +1,6 @@
+trunk
+torso
+main body
+log
+blockhead
+dummy

@@ -1,0 +1,8 @@
+pot
+bateau
+barque
+canot
+bond
+rebond
+cagnotte
+collecte

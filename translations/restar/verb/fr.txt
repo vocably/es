@@ -1,0 +1,5 @@
+soustraire
+rester
+diminuer
+retrancher
+faire obstacle

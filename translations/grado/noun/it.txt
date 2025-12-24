@@ -1,0 +1,5 @@
+grado
+livello
+titolo
+intensità
+qualità

@@ -1,0 +1,4 @@
+rang
+catégorie
+niveau
+étendue

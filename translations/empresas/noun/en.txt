@@ -1,0 +1,5 @@
+companies
+businesses
+firms
+enterprises
+ventures

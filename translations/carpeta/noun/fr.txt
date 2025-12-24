@@ -1,0 +1,8 @@
+dossier
+chemise
+classeur
+porte-documents
+cartable
+serviette
+tablette
+bureau

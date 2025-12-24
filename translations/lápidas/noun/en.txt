@@ -1,0 +1,6 @@
+tombstones
+gravestones
+headstones
+slabs
+plaques
+memorials

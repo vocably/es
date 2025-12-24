@@ -1,0 +1,7 @@
+bench
+bank
+school
+shoal
+workbench
+sandbank
+bar

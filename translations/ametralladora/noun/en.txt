@@ -1,0 +1,3 @@
+machine gun
+automatic rifle
+submachine gun

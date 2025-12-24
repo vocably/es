@@ -1,0 +1,6 @@
+feeling
+emotion
+sentiment
+sense
+opinion
+view

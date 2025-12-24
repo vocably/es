@@ -1,0 +1,4 @@
+vines
+creepers
+climbing plants
+tendrils

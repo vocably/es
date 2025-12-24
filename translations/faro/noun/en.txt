@@ -1,0 +1,6 @@
+lighthouse
+headlight
+headlamp
+beacon
+landmark
+guide

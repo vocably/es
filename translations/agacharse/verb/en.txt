@@ -1,0 +1,6 @@
+to duck
+to crouch
+to bend down
+to stoop
+to squat
+to hide

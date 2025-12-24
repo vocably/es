@@ -1,0 +1,5 @@
+bookstores
+bookshops
+libraries
+bookshelves
+bookcases

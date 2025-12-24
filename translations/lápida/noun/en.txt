@@ -1,0 +1,5 @@
+gravestone
+tombstone
+headstone
+epitaph
+slab
