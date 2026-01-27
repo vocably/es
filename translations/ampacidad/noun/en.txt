@@ -1,0 +1,4 @@
+ampacity
+current-carrying capacity
+amperage capacity
+maximum operating current

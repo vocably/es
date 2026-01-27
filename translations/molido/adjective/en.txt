@@ -1,0 +1,5 @@
+ground
+milled
+crushed
+powdered
+exhausted

@@ -1,0 +1,5 @@
+displacement
+movement
+travel
+relocation
+shift

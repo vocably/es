@@ -1,0 +1,7 @@
+walk
+gait
+speed
+gear
+march
+parade
+demonstration

@@ -1,0 +1,4 @@
+articulation
+joint
+phonation
+élocution

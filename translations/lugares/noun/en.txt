@@ -1,0 +1,6 @@
+places
+locations
+spots
+positions
+towns
+villages

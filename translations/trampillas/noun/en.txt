@@ -1,0 +1,5 @@
+trapdoors
+hatches
+flaps
+snare traps
+small traps

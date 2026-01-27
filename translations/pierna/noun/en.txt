@@ -1,0 +1,4 @@
+leg
+thigh
+drumstick
+pant leg

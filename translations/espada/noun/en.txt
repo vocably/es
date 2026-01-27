@@ -1,0 +1,4 @@
+sword
+fencer
+matador
+spades

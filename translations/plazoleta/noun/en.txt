@@ -1,0 +1,5 @@
+small plaza
+square
+courtyard
+open space
+traffic circle

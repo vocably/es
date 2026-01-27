@@ -1,0 +1,6 @@
+battery
+pile
+stack
+font
+basin
+stack (computing)

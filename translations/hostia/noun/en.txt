@@ -1,0 +1,4 @@
+host
+slap
+hit
+wow

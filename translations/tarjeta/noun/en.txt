@@ -1,0 +1,5 @@
+card
+debit card
+credit card
+yellow card
+red card

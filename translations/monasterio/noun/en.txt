@@ -1,0 +1,6 @@
+monastery
+convent
+abbey
+friary
+nunnery
+monastic house

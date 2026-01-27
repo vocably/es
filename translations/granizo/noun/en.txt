@@ -1,0 +1,6 @@
+hail
+hailstones
+storm
+barrage
+shower
+volley

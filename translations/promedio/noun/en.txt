@@ -1,0 +1,4 @@
+average
+mean
+middle
+midpoint

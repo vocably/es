@@ -1,0 +1,7 @@
+impulse
+thrust
+momentum
+drive
+urge
+boost
+stimulus

@@ -1,0 +1,4 @@
+divider
+cutter
+slicer
+splitter

@@ -1,0 +1,4 @@
+pants
+trousers
+a pair of pants
+a pair of trousers

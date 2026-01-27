@@ -1,0 +1,4 @@
+middle
+half
+average
+medium

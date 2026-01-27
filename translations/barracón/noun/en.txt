@@ -1,0 +1,5 @@
+barracks
+shed
+shack
+hut
+hovel

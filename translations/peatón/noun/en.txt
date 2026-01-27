@@ -1,0 +1,3 @@
+pedestrian
+walker
+foot passenger

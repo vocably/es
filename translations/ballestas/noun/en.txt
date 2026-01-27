@@ -1,0 +1,6 @@
+crossbows
+bows
+leaf springs
+springs
+traps
+snares

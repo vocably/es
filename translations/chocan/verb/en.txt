@@ -1,0 +1,8 @@
+collide
+crash
+hit
+shock
+surprise
+clash
+fight
+confront

@@ -1,0 +1,4 @@
+inhabitant
+resident
+dweller
+denizen

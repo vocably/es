@@ -1,0 +1,6 @@
+structure
+charpente
+ossature
+cadre
+organisation
+agencement

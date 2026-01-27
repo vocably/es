@@ -1,0 +1,3 @@
+die Abteilung
+die Wohnung
+das Departement

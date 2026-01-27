@@ -1,0 +1,4 @@
+spia
+informatore
+delatore
+confidente

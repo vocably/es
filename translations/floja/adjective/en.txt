@@ -1,0 +1,4 @@
+loose
+weak
+lazy
+poor-quality

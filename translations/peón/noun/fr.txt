@@ -1,0 +1,4 @@
+ouvrier
+piéton
+pion
+toupie

@@ -1,0 +1,4 @@
+je taille
+je sculpte
+je grave
+je mesure

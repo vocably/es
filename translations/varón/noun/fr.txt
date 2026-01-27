@@ -1,0 +1,4 @@
+homme
+mâle
+fils
+descendant

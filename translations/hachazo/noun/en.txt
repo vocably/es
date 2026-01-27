@@ -1,0 +1,7 @@
+axe blow
+hatchet blow
+gash
+chop
+hack
+cut
+slash

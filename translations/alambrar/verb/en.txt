@@ -1,0 +1,5 @@
+to fence
+to wire
+to enclose with wire
+to put up wire
+to string with wire

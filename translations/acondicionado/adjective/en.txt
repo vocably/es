@@ -1,0 +1,4 @@
+conditioned
+air-conditioned
+heated
+cooled

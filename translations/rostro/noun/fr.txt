@@ -1,0 +1,4 @@
+visage
+figure
+face
+mine

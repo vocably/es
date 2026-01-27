@@ -1,0 +1,5 @@
+shade
+hue
+tinge
+nuance
+subtlety

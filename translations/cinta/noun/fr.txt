@@ -1,0 +1,4 @@
+ruban
+bande
+film
+cassette

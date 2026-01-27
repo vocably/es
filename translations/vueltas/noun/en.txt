@@ -1,0 +1,10 @@
+return
+turn
+change
+revolution
+lap
+spin
+loop
+refund
+reversal
+twist

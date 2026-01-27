@@ -1,0 +1,10 @@
+stele
+stela
+monument
+wake
+trail
+track
+mark
+trace
+legacy
+footprint

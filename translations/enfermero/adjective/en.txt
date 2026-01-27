@@ -1,0 +1,4 @@
+nursing
+medical
+health
+sick

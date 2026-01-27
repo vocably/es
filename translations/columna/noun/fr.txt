@@ -1,0 +1,5 @@
+colonne
+pilier
+chronique
+rubrique
+poteau

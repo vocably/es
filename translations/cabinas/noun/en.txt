@@ -1,0 +1,6 @@
+booths
+cabins
+cockpits
+stalls
+cubicles
+kiosks

@@ -1,0 +1,5 @@
+strict
+rigorous
+severe
+exact
+stringent

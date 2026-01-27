@@ -1,0 +1,6 @@
+team
+group
+crew
+equipment
+set
+kit

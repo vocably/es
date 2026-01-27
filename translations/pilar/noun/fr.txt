@@ -1,0 +1,3 @@
+pilier
+colonne
+poteau

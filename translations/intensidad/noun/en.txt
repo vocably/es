@@ -1,0 +1,7 @@
+intensity
+strength
+power
+level
+magnitude
+vigor
+vehemence

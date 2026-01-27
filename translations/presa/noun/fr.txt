@@ -1,0 +1,4 @@
+proie
+barrage
+prise
+victime

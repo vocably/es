@@ -1,0 +1,7 @@
+method
+technique
+procedure
+approach
+system
+habit
+custom

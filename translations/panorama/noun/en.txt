@@ -1,0 +1,5 @@
+panorama
+view
+overview
+picture
+scene

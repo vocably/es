@@ -1,0 +1,4 @@
+stairs
+stairway
+ladder
+straight

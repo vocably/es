@@ -1,0 +1,6 @@
+movable
+unstable
+loose
+shifting
+slippery
+treacherous

@@ -1,0 +1,3 @@
+blocked
+stuck
+paralyzed

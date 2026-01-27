@@ -1,0 +1,6 @@
+tid
+vær
+årstid
+tempo
+tidsrom
+anledning

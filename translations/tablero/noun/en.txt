@@ -1,0 +1,6 @@
+board
+panel
+dashboard
+blackboard
+whiteboard
+game board

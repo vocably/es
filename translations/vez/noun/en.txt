@@ -1,0 +1,6 @@
+time
+turn
+occasion
+occurrence
+bout
+spell

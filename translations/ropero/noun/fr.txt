@@ -1,0 +1,5 @@
+armoire
+vestiaire
+garde-robe
+lingère
+fripière

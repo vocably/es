@@ -1,0 +1,5 @@
+posture
+attitude
+stance
+behavior
+disposition

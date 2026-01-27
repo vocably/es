@@ -1,0 +1,6 @@
+boîte
+compartiment
+cartouche
+cassette
+logement
+caisson

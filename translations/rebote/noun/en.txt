@@ -1,0 +1,5 @@
+rebound
+bounce
+ricochet
+kickback
+repercussion

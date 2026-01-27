@@ -1,0 +1,6 @@
+spessore
+densità
+foltezza
+macchia
+boscaglia
+fitta

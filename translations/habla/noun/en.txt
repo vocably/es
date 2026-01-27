@@ -1,0 +1,5 @@
+speech
+language
+dialect
+talk
+way of speaking

@@ -1,0 +1,4 @@
+angolo
+cantone
+incrocio
+svolta

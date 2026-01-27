@@ -1,0 +1,3 @@
+guichet
+casier
+recette

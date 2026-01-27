@@ -1,0 +1,3 @@
+gemello
+doppio
+duplicato

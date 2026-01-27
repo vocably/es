@@ -1,0 +1,5 @@
+barrier
+obstacle
+fence
+hurdle
+difficulty

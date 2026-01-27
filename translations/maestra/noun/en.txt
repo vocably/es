@@ -1,0 +1,5 @@
+teacher
+schoolteacher
+master
+expert
+mistress

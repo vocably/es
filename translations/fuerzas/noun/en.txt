@@ -1,0 +1,10 @@
+strength
+force
+power
+might
+energy
+vigor
+robustness
+troops
+forces
+military

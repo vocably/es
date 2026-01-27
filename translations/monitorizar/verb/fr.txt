@@ -1,0 +1,4 @@
+surveiller
+monitorer
+contrôler
+observer

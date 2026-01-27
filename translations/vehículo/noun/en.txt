@@ -1,0 +1,5 @@
+vehicle
+means
+medium
+carrier
+base

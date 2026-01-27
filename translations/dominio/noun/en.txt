@@ -1,0 +1,7 @@
+power
+control
+domain
+territory
+mastery
+knowledge
+domain name

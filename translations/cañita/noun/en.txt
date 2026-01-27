@@ -1,0 +1,5 @@
+straw
+reed
+cane
+shoot
+stalk

@@ -1,0 +1,7 @@
+rope
+cord
+string
+chord
+spring
+section
+choir

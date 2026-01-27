@@ -1,0 +1,3 @@
+gallop
+rush
+make a horse gallop

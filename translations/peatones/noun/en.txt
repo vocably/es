@@ -1,0 +1,3 @@
+pedestrians
+walkers
+foot traffic

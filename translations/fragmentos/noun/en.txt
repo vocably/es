@@ -1,0 +1,5 @@
+fragments
+pieces
+shards
+remains
+vestiges

@@ -1,0 +1,4 @@
+forward
+striker
+front
+front part

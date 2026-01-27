@@ -1,0 +1,5 @@
+strength
+force
+power
+vigor
+might

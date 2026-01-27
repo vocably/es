@@ -1,0 +1,8 @@
+trunk
+porter
+bellhop
+luggage compartment
+baggage handler
+luggage room
+baggage room
+luggage maker's workshop

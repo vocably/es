@@ -1,0 +1,8 @@
+fields
+countryside
+farmland
+areas
+domains
+grounds
+pitches
+courts

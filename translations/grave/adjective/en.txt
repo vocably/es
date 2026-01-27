@@ -1,0 +1,5 @@
+serious
+critical
+grave
+low
+paroxytone

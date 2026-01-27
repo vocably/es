@@ -1,0 +1,7 @@
+articles
+items
+goods
+products
+parts
+sections
+words

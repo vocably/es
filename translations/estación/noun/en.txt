@@ -1,0 +1,6 @@
+station
+season
+stop
+resort
+post
+stage

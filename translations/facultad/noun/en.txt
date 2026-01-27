@@ -1,0 +1,9 @@
+ability
+capacity
+power
+right
+authority
+school
+faculty
+department
+college

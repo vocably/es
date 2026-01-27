@@ -1,0 +1,7 @@
+tool
+implement
+device
+instrument
+means
+resource
+asset

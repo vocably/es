@@ -1,0 +1,4 @@
+Zahl
+Ziffer
+Chiffre
+Summe

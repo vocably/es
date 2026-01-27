@@ -1,0 +1,6 @@
+allure
+port
+frais de port
+transport
+importance
+taille

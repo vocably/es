@@ -1,0 +1,4 @@
+ring
+band
+hoop
+circle

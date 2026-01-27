@@ -1,0 +1,4 @@
+choir
+chorus
+sanctuary
+chancel

@@ -1,0 +1,4 @@
+Punkt
+Stelle
+Aspekt
+Satzzeichen

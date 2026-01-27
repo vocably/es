@@ -1,0 +1,4 @@
+tension
+stress
+pressure
+voltage

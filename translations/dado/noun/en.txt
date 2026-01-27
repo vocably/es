@@ -1,0 +1,7 @@
+die
+dice
+fact
+given
+cube
+plinth
+pedestal block

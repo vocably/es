@@ -1,0 +1,7 @@
+caliber
+gauge
+bore
+quality
+class
+importance
+stature

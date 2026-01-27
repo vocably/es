@@ -1,0 +1,5 @@
+ammunition
+ammo
+shot
+bullets
+cartridges

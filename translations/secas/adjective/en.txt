@@ -1,0 +1,5 @@
+dry
+thin
+withered
+dehydrated
+unproductive

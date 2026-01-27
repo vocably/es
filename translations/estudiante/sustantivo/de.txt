@@ -1,0 +1,4 @@
+der Student
+die Studentin
+der Schüler
+die Schülerin

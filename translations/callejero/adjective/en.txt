@@ -1,0 +1,5 @@
+street
+stray
+alley
+homeless
+vagrant

@@ -1,0 +1,4 @@
+vocalize
+express
+articulate
+utter

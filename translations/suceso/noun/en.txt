@@ -1,0 +1,7 @@
+event
+occurrence
+incident
+outcome
+result
+crime
+accident

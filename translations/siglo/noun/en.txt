@@ -1,0 +1,4 @@
+century
+age
+era
+long time

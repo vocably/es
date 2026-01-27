@@ -1,0 +1,3 @@
+greetings
+regards
+salutations

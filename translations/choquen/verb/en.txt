@@ -1,0 +1,5 @@
+collide
+crash
+shock
+clash
+encounter

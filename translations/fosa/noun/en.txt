@@ -1,0 +1,7 @@
+grave
+pit
+fossa
+moat
+trench
+dump
+landfill

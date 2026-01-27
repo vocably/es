@@ -1,0 +1,4 @@
+strategic
+key
+critical
+pivotal

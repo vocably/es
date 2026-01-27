@@ -1,0 +1,8 @@
+plant
+sole
+floor
+story
+factory
+plant (industrial)
+layout
+blueprint

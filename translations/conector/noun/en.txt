@@ -1,0 +1,5 @@
+connector
+adapter
+plug
+link
+joiner

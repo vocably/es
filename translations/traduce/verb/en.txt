@@ -1,0 +1,5 @@
+translate
+interpret
+convert
+turn
+express

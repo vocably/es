@@ -1,0 +1,6 @@
+explicit
+clear
+definite
+obvious
+unambiguous
+straightforward

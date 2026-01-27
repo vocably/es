@@ -1,0 +1,5 @@
+wave
+flutter
+undulate
+billow
+stream

@@ -1,0 +1,8 @@
+monster
+freak
+prodigy
+giant
+beast
+fiend
+marvel
+colossus

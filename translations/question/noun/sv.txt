@@ -1,0 +1,6 @@
+fråga
+ämne
+punkt
+angelägenhet
+spörsmål
+tvistefråga

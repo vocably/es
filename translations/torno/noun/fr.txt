@@ -1,0 +1,5 @@
+treuil
+tour
+tourniquet
+rotation
+mouvement circulaire

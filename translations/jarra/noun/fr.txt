@@ -1,0 +1,8 @@
+cruche
+carafe
+pot
+pichet
+le contenu de la cruche
+le contenu de la carafe
+le contenu du pot
+le contenu du pichet

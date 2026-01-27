@@ -1,0 +1,6 @@
+sword blow
+saber blow
+cut
+slash
+sword wound
+saber wound

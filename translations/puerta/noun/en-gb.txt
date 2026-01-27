@@ -1,0 +1,4 @@
+door
+gate
+entrance
+gateway

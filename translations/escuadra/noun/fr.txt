@@ -1,0 +1,4 @@
+équerre
+escadre
+escouade
+coin

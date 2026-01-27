@@ -1,0 +1,5 @@
+warehouses
+stores
+department stores
+shops
+depots

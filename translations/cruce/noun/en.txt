@@ -1,0 +1,8 @@
+intersection
+crossing
+junction
+crossroad
+hybrid
+mix
+exchange
+altercation

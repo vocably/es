@@ -1,0 +1,3 @@
+appareil
+dispositif
+système

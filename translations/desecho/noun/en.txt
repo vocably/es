@@ -1,0 +1,6 @@
+waste
+refuse
+trash
+discard
+disposal
+rejection

@@ -1,0 +1,5 @@
+fragment
+piece
+shard
+splinter
+scrap

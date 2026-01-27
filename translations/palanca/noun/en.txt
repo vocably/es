@@ -1,0 +1,8 @@
+lever
+crowbar
+stick
+joystick
+gearshift
+influence
+leverage
+sway

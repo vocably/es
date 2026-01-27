@@ -1,0 +1,7 @@
+warehouse
+store
+department store
+depot
+storage
+stockroom
+magazine

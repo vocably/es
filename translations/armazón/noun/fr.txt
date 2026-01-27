@@ -1,0 +1,7 @@
+carcasse
+ossature
+charpente
+monture
+bâti
+châssis
+gabarit

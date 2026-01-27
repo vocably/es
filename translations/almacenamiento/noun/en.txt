@@ -1,0 +1,5 @@
+storage
+warehouse
+storehouse
+depot
+storage capacity

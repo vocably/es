@@ -1,0 +1,4 @@
+der Titel
+die Überschrift
+die Urkunde
+der Wert

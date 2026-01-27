@@ -1,0 +1,4 @@
+crutch
+cape
+support
+aid

@@ -1,0 +1,6 @@
+sponsor
+patron
+backer
+promoter
+advocate
+supporter

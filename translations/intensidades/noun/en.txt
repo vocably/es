@@ -1,0 +1,5 @@
+intensities
+strengths
+magnitudes
+levels
+rates

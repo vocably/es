@@ -1,0 +1,7 @@
+hurt
+injured
+damaged
+wounded
+offended
+grieved
+pained

@@ -1,0 +1,6 @@
+interest
+value
+profit
+gain
+benefit
+return

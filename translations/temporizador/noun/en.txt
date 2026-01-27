@@ -1,0 +1,4 @@
+timer
+stopwatch
+time switch
+timing device

@@ -1,0 +1,4 @@
+prey
+victim
+piece
+dam

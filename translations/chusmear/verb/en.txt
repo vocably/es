@@ -1,0 +1,6 @@
+gossip
+spy
+snoop
+pry
+gawk
+peep

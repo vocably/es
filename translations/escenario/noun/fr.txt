@@ -1,0 +1,3 @@
+scène
+plateau
+cadre

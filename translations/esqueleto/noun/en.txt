@@ -1,0 +1,4 @@
+skeleton
+frame
+framework
+skin and bones

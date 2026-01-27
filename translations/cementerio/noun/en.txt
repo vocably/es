@@ -1,0 +1,6 @@
+cemetery
+graveyard
+dump
+landfill
+junkyard
+boneyard

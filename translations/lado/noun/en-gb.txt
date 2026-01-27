@@ -1,0 +1,6 @@
+side
+flank
+aspect
+view
+place
+spot

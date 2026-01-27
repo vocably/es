@@ -1,0 +1,7 @@
+blueprints
+plans
+flats
+planes
+shots
+takes
+views

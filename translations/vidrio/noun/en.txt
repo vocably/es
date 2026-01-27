@@ -1,0 +1,4 @@
+glass
+pane
+windowpane
+glassware

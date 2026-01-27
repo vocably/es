@@ -1,0 +1,7 @@
+riverbed
+streambed
+channel
+watercourse
+course
+path
+means

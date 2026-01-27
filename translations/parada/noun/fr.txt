@@ -1,0 +1,4 @@
+arrêt
+station
+halte
+parade

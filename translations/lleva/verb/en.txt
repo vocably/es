@@ -1,0 +1,6 @@
+carry
+take
+wear
+lead
+drive
+be

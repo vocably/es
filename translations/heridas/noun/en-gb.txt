@@ -1,0 +1,4 @@
+injuries
+wounds
+hurts
+damage

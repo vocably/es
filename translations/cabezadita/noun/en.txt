@@ -1,0 +1,5 @@
+nap
+doze
+catnap
+siesta
+snooze

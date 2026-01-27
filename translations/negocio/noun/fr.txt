@@ -1,0 +1,7 @@
+affaires
+commerce
+entreprise
+magasin
+affaire
+négoce
+boutique

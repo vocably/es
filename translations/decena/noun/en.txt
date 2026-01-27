@@ -1,0 +1,4 @@
+ten
+group of ten
+tens place
+number from zero to nine in the tens place

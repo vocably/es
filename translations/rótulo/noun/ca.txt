@@ -1,0 +1,5 @@
+rètol
+cartell
+indicador
+etiqueta
+títol

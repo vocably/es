@@ -1,0 +1,5 @@
+partenza
+partita
+gioco
+certificato
+banda

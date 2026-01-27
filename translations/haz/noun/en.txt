@@ -1,0 +1,9 @@
+beam
+ray
+bundle
+sheaf
+face
+front
+obverse
+column
+line

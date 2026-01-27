@@ -1,0 +1,6 @@
+cover
+case
+sheath
+holster
+pillowcase
+slipcover

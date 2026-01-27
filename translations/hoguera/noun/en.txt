@@ -1,0 +1,4 @@
+bonfire
+blaze
+pyre
+campfire

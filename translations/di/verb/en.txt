@@ -1,0 +1,5 @@
+say
+tell
+give
+I gave
+I gave (it to him/her/them)

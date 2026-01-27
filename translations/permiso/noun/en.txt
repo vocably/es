@@ -1,0 +1,4 @@
+permission
+permit
+license
+authorization

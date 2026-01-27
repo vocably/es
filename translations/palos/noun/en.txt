@@ -1,0 +1,4 @@
+sticks
+clubs
+suits
+styles

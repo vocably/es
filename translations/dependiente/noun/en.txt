@@ -1,0 +1,6 @@
+sales assistant
+shop assistant
+clerk
+employee
+subordinate
+dependent

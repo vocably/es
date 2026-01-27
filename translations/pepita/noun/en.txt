@@ -1,0 +1,5 @@
+seed
+pip
+nugget
+kernel
+pip (disease)

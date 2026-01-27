@@ -1,0 +1,6 @@
+kiosk
+stand
+booth
+pavilion
+bandstand
+gazebo

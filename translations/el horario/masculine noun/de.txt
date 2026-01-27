@@ -1,0 +1,3 @@
+der Stundenplan
+der Fahrplan
+die Arbeitszeit

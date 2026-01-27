@@ -1,0 +1,5 @@
+literal
+exact
+verbatim
+word-for-word
+strict

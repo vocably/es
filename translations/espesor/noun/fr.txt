@@ -1,0 +1,3 @@
+épaisseur
+grosseur
+densité

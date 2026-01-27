@@ -1,0 +1,5 @@
+numbers
+figures
+issues
+acts
+routines
