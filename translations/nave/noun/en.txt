@@ -1,0 +1,4 @@
+ship
+vessel
+spacecraft
+nave

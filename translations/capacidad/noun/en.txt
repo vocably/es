@@ -1,0 +1,4 @@
+capacity
+ability
+space
+legal capacity

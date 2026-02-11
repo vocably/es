@@ -1,0 +1,4 @@
+grain
+pimple
+spot
+point

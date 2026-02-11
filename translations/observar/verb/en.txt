@@ -1,0 +1,3 @@
+observe
+examine
+note

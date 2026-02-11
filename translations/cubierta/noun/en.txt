@@ -1,0 +1,4 @@
+cover
+deck
+tire
+binding

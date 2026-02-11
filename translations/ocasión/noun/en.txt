@@ -1,0 +1,4 @@
+occasion
+opportunity
+chance
+time
