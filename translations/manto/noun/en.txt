@@ -1,0 +1,4 @@
+cloak
+mantle
+cape
+coat

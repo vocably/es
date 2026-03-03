@@ -1,0 +1,4 @@
+basket
+hoop
+point
+canasta

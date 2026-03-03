@@ -1,0 +1,5 @@
+lift
+raise
+pick up
+build
+wake up

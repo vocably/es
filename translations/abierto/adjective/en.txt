@@ -1,0 +1,4 @@
+open
+frank
+open-minded
+unrestricted

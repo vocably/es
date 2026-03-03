@@ -1,0 +1,4 @@
+barracks
+headquarters
+quarter
+mercy

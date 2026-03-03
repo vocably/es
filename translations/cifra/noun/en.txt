@@ -1,0 +1,4 @@
+figure
+number
+amount
+code

@@ -1,0 +1,4 @@
+jump
+waterfall
+leap
+omission

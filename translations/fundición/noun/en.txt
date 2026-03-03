@@ -1,0 +1,4 @@
+foundry
+casting
+smelting
+founding

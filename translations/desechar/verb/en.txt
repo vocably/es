@@ -1,0 +1,3 @@
+discard
+reject
+rule out

@@ -1,0 +1,4 @@
+variety
+range
+kind
+show

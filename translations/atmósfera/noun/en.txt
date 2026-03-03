@@ -1,0 +1,4 @@
+atmosphere
+air
+ambiance
+environment
