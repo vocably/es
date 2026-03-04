@@ -1,0 +1,1 @@
+["düzenleme","yerleştirme","eğilim","hüküm"]

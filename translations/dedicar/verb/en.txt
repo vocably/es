@@ -1,4 +1,1 @@
-dedicate
-devote
-assign
-allocate
+["to dedicate","to devote","to set aside"]

@@ -1,5 +1,1 @@
-disposition
-arrangement
-provision
-aptitude
-mood
+["arrangement","disposition","provision","order"]

@@ -1,4 +1,1 @@
-threshold
-brink
-doorstep
-verge
+["threshold","doorstep","start"]

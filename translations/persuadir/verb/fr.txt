@@ -1,5 +1,1 @@
-persuader
-convaincre
-inciter
-amener à croire
-obliger à faire
+["persuader","convaincre"]
