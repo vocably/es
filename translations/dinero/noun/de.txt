@@ -1,0 +1,3 @@
+Geld
+Vermögen
+Zahlungsmittel

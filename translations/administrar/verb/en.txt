@@ -1,0 +1,4 @@
+administer
+manage
+dispense
+give
