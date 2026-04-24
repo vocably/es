@@ -1,1 +1,3 @@
-["sakamako","ci gaba","jimla"]
+sakamako
+ci gaba
+jimla

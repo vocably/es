@@ -1,1 +1,3 @@
-["kesan","akibat","impak"]
+kesan
+akibat
+impak

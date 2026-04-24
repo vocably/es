@@ -1,1 +1,3 @@
-["integridade","inteireza","retidão"]
+integridade
+inteireza
+retidão

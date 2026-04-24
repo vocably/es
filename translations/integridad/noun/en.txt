@@ -1,1 +1,3 @@
-["integrity","completeness","honesty"]
+integrity
+completeness
+honesty

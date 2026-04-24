@@ -1,1 +1,2 @@
-["hoʻoponopono","ahokau"]
+hoʻoponopono
+ahokau

@@ -1,1 +1,3 @@
-["xarmangarri","liluragarri","sorgin"]
+xarmangarri
+liluragarri
+sorgin

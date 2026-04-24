@@ -1,1 +1,2 @@
-["raskt","snart"]
+raskt
+snart

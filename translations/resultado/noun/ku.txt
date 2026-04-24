@@ -1,1 +1,3 @@
-["encam","encamname","berhem"]
+encam
+encamname
+berhem

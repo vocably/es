@@ -1,1 +1,2 @@
-["drochmheasúil","frithsheasmhach"]
+drochmheasúil
+frithsheasmhach

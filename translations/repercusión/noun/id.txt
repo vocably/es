@@ -1,1 +1,3 @@
-["dampak","akibat","konsekuensi"]
+dampak
+akibat
+konsekuensi

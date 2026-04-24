@@ -1,1 +1,3 @@
-["persistenti","kostanti","dejjiemi"]
+persistenti
+kostanti
+dejjiemi

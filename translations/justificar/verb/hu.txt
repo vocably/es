@@ -1,1 +1,3 @@
-["igazol","indokol","alátámaszt"]
+igazol
+indokol
+alátámaszt

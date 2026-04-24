@@ -1,1 +1,3 @@
-["integralni","celovit","potpun"]
+integralni
+celovit
+potpun

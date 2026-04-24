@@ -1,1 +1,2 @@
-["endirekteman","touse"]
+endirekteman
+touse

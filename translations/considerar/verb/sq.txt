@@ -1,1 +1,3 @@
-["konsideroj","çmoj","mendoj"]
+konsideroj
+çmoj
+mendoj

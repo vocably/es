@@ -1,1 +1,4 @@
-["disposisjon","ordning","anlegg","bestemmelse"]
+disposisjon
+ordning
+anlegg
+bestemmelse

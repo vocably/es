@@ -1,1 +1,4 @@
-["aztertu","onartu","identifikatu","eskertu"]
+aztertu
+onartu
+identifikatu
+eskertu

@@ -1,1 +1,3 @@
-["àlainn","tarraingeach","draoidheil"]
+àlainn
+tarraingeach
+draoidheil

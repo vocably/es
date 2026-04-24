@@ -1,1 +1,3 @@
-["marinka","darajada","bilowga"]
+marinka
+darajada
+bilowga

@@ -1,1 +1,3 @@
-["natiijo","dhibco","soo-saar"]
+natiijo
+dhibco
+soo-saar

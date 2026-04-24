@@ -1,1 +1,3 @@
-["hasil","balukar","produk"]
+hasil
+balukar
+produk

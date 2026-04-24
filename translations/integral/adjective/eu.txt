@@ -1,1 +1,3 @@
-["osoa","integrala","osokoa"]
+osoa
+integrala
+osokoa

@@ -1,1 +1,3 @@
-["rezultat","scor","produs"]
+rezultat
+scor
+produs

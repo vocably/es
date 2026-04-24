@@ -1,1 +1,3 @@
-["aʻafiaga","tā","tāua"]
+aʻafiaga
+tā
+tāua

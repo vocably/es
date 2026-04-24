@@ -1,1 +1,3 @@
-["integral","wholemeal","unabridged"]
+integral
+wholemeal
+unabridged

@@ -1,1 +1,3 @@
-["integrāls","pilngraudu","neatņemams"]
+integrāls
+pilngraudu
+neatņemams

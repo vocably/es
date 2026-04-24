@@ -1,1 +1,2 @@
-["körülbelül","hozzávetőlegesen"]
+körülbelül
+hozzávetőlegesen

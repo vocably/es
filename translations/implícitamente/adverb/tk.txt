@@ -1,1 +1,2 @@
-["gytaklaýyn","gizlin"]
+gytaklaýyn
+gizlin

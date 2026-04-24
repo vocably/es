@@ -1,1 +1,3 @@
-["posledica","udarac","važnost"]
+posledica
+udarac
+važnost

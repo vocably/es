@@ -1,1 +1,3 @@
-["neatlaidīgs","pastāvīgs","ilggadīgs"]
+neatlaidīgs
+pastāvīgs
+ilggadīgs

@@ -1,1 +1,4 @@
-["tanımaq","etiraf etmək","minnətdar olmaq","yoxlamaq"]
+tanımaq
+etiraf etmək
+minnətdar olmaq
+yoxlamaq

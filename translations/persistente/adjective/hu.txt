@@ -1,1 +1,3 @@
-["kitartó","állandó","tartós"]
+kitartó
+állandó
+tartós

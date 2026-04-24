@@ -1,1 +1,3 @@
-["akibat","dampak","prabawa"]
+akibat
+dampak
+prabawa

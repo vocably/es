@@ -1,1 +1,3 @@
-["feno","manontolo","tsy voadio"]
+feno
+manontolo
+tsy voadio

@@ -1,1 +1,3 @@
-["to'liq","butun","integral"]
+to'liq
+butun
+integral

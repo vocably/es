@@ -1,1 +1,2 @@
-["nelinkęs","priešingas"]
+nelinkęs
+priešingas

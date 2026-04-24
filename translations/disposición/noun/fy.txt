@@ -1,1 +1,4 @@
-["oardering","oarder","regeling","beskikking"]
+oardering
+oarder
+regeling
+beskikking

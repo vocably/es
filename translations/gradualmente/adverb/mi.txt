@@ -1,1 +1,2 @@
-["āta haere","mārire"]
+āta haere
+mārire

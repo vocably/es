@@ -1,1 +1,2 @@
-["musamman","sosai"]
+musamman
+sosai

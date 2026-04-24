@@ -1,1 +1,3 @@
-["ukunganaki","ukuzishaya indiva","ukuyekelela"]
+ukunganaki
+ukuzishaya indiva
+ukuyekelela

@@ -1,1 +1,2 @@
-["maitauina","tele"]
+maitauina
+tele

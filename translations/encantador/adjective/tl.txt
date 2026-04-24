@@ -1,1 +1,3 @@
-["kaakit-akit","nakabibighani","mangkukulam"]
+kaakit-akit
+nakabibighani
+mangkukulam

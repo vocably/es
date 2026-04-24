@@ -1,1 +1,3 @@
-["sjarmant","betsjoend","tsjoenderich"]
+sjarmant
+betsjoend
+tsjoenderich

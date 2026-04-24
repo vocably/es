@@ -1,1 +1,3 @@
-["vokatra","isa","tsoa"]
+vokatra
+isa
+tsoa

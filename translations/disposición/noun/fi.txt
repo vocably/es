@@ -1,1 +1,4 @@
-["järjestely","määräys","asenne","kyky"]
+järjestely
+määräys
+asenne
+kyky

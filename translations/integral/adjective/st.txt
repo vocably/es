@@ -1,1 +1,3 @@
-["feletseng","e sa tsoakoang","kopaneng"]
+feletseng
+e sa tsoakoang
+kopaneng

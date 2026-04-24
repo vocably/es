@@ -1,1 +1,3 @@
-["posljedica","odjek","važnost"]
+posljedica
+odjek
+važnost

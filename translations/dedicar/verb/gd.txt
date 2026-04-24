@@ -1,1 +1,3 @@
-["coisrig","caitheamh","tiomnadh"]
+coisrig
+caitheamh
+tiomnadh

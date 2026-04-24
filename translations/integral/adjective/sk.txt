@@ -1,1 +1,3 @@
-["integrálny","celozrnný","úplný"]
+integrálny
+celozrnný
+úplný

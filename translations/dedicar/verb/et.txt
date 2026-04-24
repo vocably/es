@@ -1,1 +1,3 @@
-["pühendama","kulutama","otstarbekaks tegema"]
+pühendama
+kulutama
+otstarbekaks tegema

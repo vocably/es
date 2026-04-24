@@ -1,1 +1,3 @@
-["iomlán","lánpháirteach","slán"]
+iomlán
+lánpháirteach
+slán

@@ -1,1 +1,3 @@
-["tam","bütöv","integral"]
+tam
+bütöv
+integral

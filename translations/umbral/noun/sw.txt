@@ -1,1 +1,3 @@
-["kizingiti","mlango","mwanzo"]
+kizingiti
+mlango
+mwanzo

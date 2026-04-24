@@ -1,1 +1,3 @@
-["ikigereranyo","umubare wose","ibishyimbo"]
+ikigereranyo
+umubare wose
+ibishyimbo

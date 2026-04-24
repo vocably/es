@@ -1,1 +1,3 @@
-["sakar","manta","rabu da"]
+sakar
+manta
+rabu da

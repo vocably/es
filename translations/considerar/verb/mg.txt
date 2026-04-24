@@ -1,1 +1,3 @@
-["mandinika","mihevitra","misaintsaina"]
+mandinika
+mihevitra
+misaintsaina

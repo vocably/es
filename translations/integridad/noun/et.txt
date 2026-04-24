@@ -1,1 +1,3 @@
-["terviklikkus","ausus","ehedu"]
+terviklikkus
+ausus
+ehedu

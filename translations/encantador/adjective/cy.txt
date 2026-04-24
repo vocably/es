@@ -1,1 +1,3 @@
-["swynol","hudol","deniadol"]
+swynol
+hudol
+deniadol

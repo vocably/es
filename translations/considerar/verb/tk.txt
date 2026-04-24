@@ -1,1 +1,3 @@
-["garamak","hasaplamak","oýlanmak"]
+garamak
+hasaplamak
+oýlanmak

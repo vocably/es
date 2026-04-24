@@ -1,1 +1,3 @@
-["afsat","helliget","brugt"]
+afsat
+helliget
+brugt

@@ -1,1 +1,2 @@
-["wochenjera","wanzeru"]
+wochenjera
+wanzeru

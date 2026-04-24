@@ -1,1 +1,3 @@
-["phello","kgutlo","bohlokwa"]
+phello
+kgutlo
+bohlokwa

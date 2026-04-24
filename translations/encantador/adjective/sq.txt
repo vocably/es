@@ -1,1 +1,3 @@
-["magjepsës","sharmant","bukur"]
+magjepsës
+sharmant
+bukur

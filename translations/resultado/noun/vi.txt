@@ -1,1 +1,3 @@
-["kết quả","điểm","tích"]
+kết quả
+điểm
+tích

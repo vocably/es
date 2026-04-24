@@ -1,1 +1,3 @@
-["gigih","ulet","terus-menerus"]
+gigih
+ulet
+terus-menerus

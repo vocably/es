@@ -1,1 +1,3 @@
-["neglect","be careless","let your guard down"]
+neglect
+be careless
+let your guard down

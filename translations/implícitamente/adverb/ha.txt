@@ -1,1 +1,2 @@
-["a boye","ba a fito a fada ba"]
+a boye
+ba a fito a fada ba

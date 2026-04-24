@@ -1,1 +1,3 @@
-["neglect","to neglect","to not pay attention to"]
+neglect
+to neglect
+to not pay attention to

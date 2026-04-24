@@ -1,1 +1,3 @@
-["tính toàn vẹn","tính chính trực","sự trọn vẹn"]
+tính toàn vẹn
+tính chính trực
+sự trọn vẹn

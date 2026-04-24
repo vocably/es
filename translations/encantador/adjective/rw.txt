@@ -1,1 +1,3 @@
-["Ibishimishije","Uburanga","Umupfumu"]
+Ibishimishije
+Uburanga
+Umupfumu

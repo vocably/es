@@ -1,1 +1,2 @@
-["usingaperer","kusamvumirana"]
+usingaperer
+kusamvumirana

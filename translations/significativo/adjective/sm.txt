@@ -1,1 +1,3 @@
-["taua","mautinoa","faʻapitoa"]
+taua
+mautinoa
+faʻapitoa

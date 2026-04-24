@@ -1,1 +1,4 @@
-["itegeko","gahunda","ubushobozi","imiterere"]
+itegeko
+gahunda
+ubushobozi
+imiterere

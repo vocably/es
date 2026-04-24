@@ -1,1 +1,3 @@
-["paso","simbulo","umpukan"]
+paso
+simbulo
+umpukan

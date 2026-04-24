@@ -1,1 +1,3 @@
-["considerar","tenir en compte","reflexionar"]
+considerar
+tenir en compte
+reflexionar

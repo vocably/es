@@ -1,1 +1,3 @@
-["besteden","wijden","toewijden"]
+besteden
+wijden
+toewijden

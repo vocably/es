@@ -1,1 +1,3 @@
-["tetep","langgeng","ora rontok"]
+tetep
+langgeng
+ora rontok

@@ -1,1 +1,4 @@
-["dispusizioni","ordini","attitudine","precettu"]
+dispusizioni
+ordini
+attitudine
+precettu

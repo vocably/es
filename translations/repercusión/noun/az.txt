@@ -1,1 +1,3 @@
-["nəticə","əks-səda","əhəmiyyət"]
+nəticə
+əks-səda
+əhəmiyyət

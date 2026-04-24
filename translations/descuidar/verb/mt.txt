@@ -1,1 +1,3 @@
-["traskura","tittraskura","tittraskura ruħek"]
+traskura
+tittraskura
+tittraskura ruħek

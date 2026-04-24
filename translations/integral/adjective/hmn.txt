@@ -1,1 +1,3 @@
-["sawv daws","tag nrho","kheej"]
+sawv daws
+tag nrho
+kheej

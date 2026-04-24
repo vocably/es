@@ -1,1 +1,3 @@
-["besteegje","wije","tawize"]
+besteegje
+wije
+tawize

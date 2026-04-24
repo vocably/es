@@ -1,1 +1,3 @@
-["ngantepkeun","ngalalaworakeun","teu malire"]
+ngantepkeun
+ngalalaworakeun
+teu malire

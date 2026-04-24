@@ -1,1 +1,3 @@
-["umphumela","isiphumela","ukugxamuza"]
+umphumela
+isiphumela
+ukugxamuza

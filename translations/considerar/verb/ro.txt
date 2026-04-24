@@ -1,1 +1,3 @@
-["a considera","a examina","a chibzui"]
+a considera
+a examina
+a chibzui

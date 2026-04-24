@@ -1,1 +1,3 @@
-["makabuluhan","makahulugan","malinaw"]
+makabuluhan
+makahulugan
+malinaw

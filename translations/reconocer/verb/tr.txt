@@ -1,1 +1,4 @@
-["tanımak","kabul etmek","teşekkür etmek","minnettar olmak"]
+tanımak
+kabul etmek
+teşekkür etmek
+minnettar olmak

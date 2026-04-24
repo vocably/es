@@ -1,1 +1,3 @@
-["nozīmīgs","zīmīgs","jēgpilns"]
+nozīmīgs
+zīmīgs
+jēgpilns

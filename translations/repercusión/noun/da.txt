@@ -1,1 +1,3 @@
-["konsekvens","følge","genklang"]
+konsekvens
+følge
+genklang

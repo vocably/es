@@ -1,1 +1,4 @@
-["tunnustama","ära tundma","tunnistama","hindama"]
+tunnustama
+ära tundma
+tunnistama
+hindama

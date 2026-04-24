@@ -1,1 +1,4 @@
-["atpažinti","pripažinti","pažinti","įvertinti"]
+atpažinti
+pripažinti
+pažinti
+įvertinti

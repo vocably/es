@@ -1,1 +1,3 @@
-["epekto","bunga","tama"]
+epekto
+bunga
+tama

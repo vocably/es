@@ -1,1 +1,4 @@
-["dispozicion","rregullim","aftësi","urdhër"]
+dispozicion
+rregullim
+aftësi
+urdhër

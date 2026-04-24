@@ -1,1 +1,3 @@
-["tsimikizira","lungamitsa","konza"]
+tsimikizira
+lungamitsa
+konza

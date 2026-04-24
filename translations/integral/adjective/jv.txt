@@ -1,1 +1,3 @@
-["wutuh","gandum wutuh","integral"]
+wutuh
+gandum wutuh
+integral

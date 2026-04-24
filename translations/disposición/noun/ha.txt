@@ -1,1 +1,4 @@
-["shirye-shirye","tsari","halaye","dokoki"]
+shirye-shirye
+tsari
+halaye
+dokoki

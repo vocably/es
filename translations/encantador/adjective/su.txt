@@ -1,1 +1,3 @@
-["pikaresepeun","matak ngirut","tukang sihir"]
+pikaresepeun
+matak ngirut
+tukang sihir

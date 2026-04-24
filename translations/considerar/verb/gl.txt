@@ -1,1 +1,3 @@
-["considerar","xulgar","estimar"]
+considerar
+xulgar
+estimar

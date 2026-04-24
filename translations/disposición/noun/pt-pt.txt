@@ -1,1 +1,4 @@
-["disposição","ordem","aptidão","preceito"]
+disposição
+ordem
+aptidão
+preceito

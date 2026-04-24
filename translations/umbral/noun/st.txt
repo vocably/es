@@ -1,1 +1,3 @@
-["moeli","lekhalo","kgoro"]
+moeli
+lekhalo
+kgoro

@@ -1,1 +1,4 @@
-["düzgün","yerleşdirme","ukypllyk","buýruk"]
+düzgün
+yerleşdirme
+ukypllyk
+buýruk

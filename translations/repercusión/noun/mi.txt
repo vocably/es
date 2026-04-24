@@ -1,1 +1,3 @@
-["hua","putanga","whakahoki"]
+hua
+putanga
+whakahoki

@@ -1,1 +1,3 @@
-["bohlokoa","hlakileng","nang le moelelo"]
+bohlokoa
+hlakileng
+nang le moelelo

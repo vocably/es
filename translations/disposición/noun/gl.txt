@@ -1,1 +1,4 @@
-["disposición","colocación","ordenación","orden"]
+disposición
+colocación
+ordenación
+orden

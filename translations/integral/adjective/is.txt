@@ -1,1 +1,3 @@
-["heill","óskiptur","samþættur"]
+heill
+óskiptur
+samþættur

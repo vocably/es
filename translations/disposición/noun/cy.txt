@@ -1,1 +1,4 @@
-["darpariaeth","trefniant","parodrwydd","gorchymyn"]
+darpariaeth
+trefniant
+parodrwydd
+gorchymyn

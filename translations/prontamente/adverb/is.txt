@@ -1,1 +1,2 @@
-["fljótt","skjótt"]
+fljótt
+skjótt

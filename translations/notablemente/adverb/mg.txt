@@ -1,1 +1,2 @@
-["mahatsika","indrindra"]
+mahatsika
+indrindra

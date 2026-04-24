@@ -1,1 +1,3 @@
-["examiner","considérer","réfléchir"]
+examiner
+considérer
+réfléchir

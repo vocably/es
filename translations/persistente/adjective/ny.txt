@@ -1,1 +1,3 @@
-["osatha","wosatha","chomera chosatha"]
+osatha
+wosatha
+chomera chosatha

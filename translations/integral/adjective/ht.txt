@@ -1,1 +1,3 @@
-["entye","konple","grenn antye"]
+entye
+konple
+grenn antye

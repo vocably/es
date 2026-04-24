@@ -1,1 +1,3 @@
-["nəzərə almaq","hesab etmək","fikirləşmək"]
+nəzərə almaq
+hesab etmək
+fikirləşmək

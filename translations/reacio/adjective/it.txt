@@ -1,1 +1,2 @@
-["restio","riluttante"]
+restio
+riluttante

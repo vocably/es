@@ -1,1 +1,3 @@
-["widmen","bestimmen","verbringen"]
+widmen
+bestimmen
+verbringen

@@ -1,1 +1,4 @@
-["ûndersykje","tajaan","weromkenne","tankber wêze"]
+ûndersykje
+tajaan
+weromkenne
+tankber wêze

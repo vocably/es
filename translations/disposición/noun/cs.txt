@@ -1,1 +1,4 @@
-["dispozice","uspořádání","nařízení","schopnost"]
+dispozice
+uspořádání
+nařízení
+schopnost

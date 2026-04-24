@@ -1,1 +1,4 @@
-["whakaae","mōhio","mihi","kite"]
+whakaae
+mōhio
+mihi
+kite

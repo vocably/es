@@ -1,1 +1,3 @@
-["neaizmirst","atstāt novārtā","palaist garām"]
+neaizmirst
+atstāt novārtā
+palaist garām

@@ -1,1 +1,3 @@
-["kamilifu","nzima","kamili"]
+kamilifu
+nzima
+kamili

@@ -1,1 +1,3 @@
-["persistent","lasting","enduring"]
+persistent
+lasting
+enduring

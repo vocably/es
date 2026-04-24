@@ -1,1 +1,3 @@
-["yntregaal","folslein","hiel"]
+yntregaal
+folslein
+hiel

@@ -1,1 +1,3 @@
-["raman","hesibandin","nirxandin"]
+raman
+hesibandin
+nirxandin

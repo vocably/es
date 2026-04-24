@@ -1,1 +1,3 @@
-["muhiim","macno leh","cad"]
+muhiim
+macno leh
+cad

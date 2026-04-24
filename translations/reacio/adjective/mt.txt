@@ -1,1 +1,2 @@
-["recalcitranti","kontrarju"]
+recalcitranti
+kontrarju

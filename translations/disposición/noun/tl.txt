@@ -1,1 +1,4 @@
-["pag-aayos","kaayusan","kautusan","kakayahan"]
+pag-aayos
+kaayusan
+kautusan
+kakayahan

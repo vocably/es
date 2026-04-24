@@ -1,1 +1,3 @@
-["zonse","wathunthu","osaphatikizidwa"]
+zonse
+wathunthu
+osaphatikizidwa

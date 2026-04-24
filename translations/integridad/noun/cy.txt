@@ -1,1 +1,3 @@
-["cyfanrwydd","uniondeb","honeddrwydd"]
+cyfanrwydd
+uniondeb
+honeddrwydd

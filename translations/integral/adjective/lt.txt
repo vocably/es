@@ -1,1 +1,3 @@
-["integralus","viso grūdo","vientisas"]
+integralus
+viso grūdo
+vientisas

@@ -1,1 +1,3 @@
-["encantador","fascinant","bruixot"]
+encantador
+fascinant
+bruixot

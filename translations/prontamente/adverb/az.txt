@@ -1,1 +1,2 @@
-["tezliklə","cəld"]
+tezliklə
+cəld

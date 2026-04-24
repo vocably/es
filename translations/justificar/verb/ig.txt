@@ -1,1 +1,3 @@
-["gosi","kwado","mezi"]
+gosi
+kwado
+mezi

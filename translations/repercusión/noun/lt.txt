@@ -1,1 +1,3 @@
-["pasekmė","atgarsis","reverberacija"]
+pasekmė
+atgarsis
+reverberacija

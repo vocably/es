@@ -1,1 +1,3 @@
-["kupereka","kupatulira","kugwiritsa ntchito"]
+kupereka
+kupatulira
+kugwiritsa ntchito

@@ -1,1 +1,3 @@
-["oqibat","natija","aks-sado"]
+oqibat
+natija
+aks-sado

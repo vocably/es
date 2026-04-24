@@ -1,1 +1,3 @@
-["elhanyagol","gondatlan","figyelmen kívül hagy"]
+elhanyagol
+gondatlan
+figyelmen kívül hagy

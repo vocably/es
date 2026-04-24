@@ -1,1 +1,3 @@
-["mara mma","dike","onye amoosu"]
+mara mma
+dike
+onye amoosu

@@ -1,1 +1,3 @@
-["oylanmoq","hesablimaq","pikir qilmoq"]
+oylanmoq
+hesablimaq
+pikir qilmoq

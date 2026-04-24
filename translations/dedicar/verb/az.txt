@@ -1,1 +1,3 @@
-["həsr etmək","ayırmaq","sərf etmək"]
+həsr etmək
+ayırmaq
+sərf etmək

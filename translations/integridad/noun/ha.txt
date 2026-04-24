@@ -1,1 +1,3 @@
-["cikakken","gaskiya","adalci"]
+cikakken
+gaskiya
+adalci

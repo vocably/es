@@ -1,1 +1,3 @@
-["tilegne","vie","bruke"]
+tilegne
+vie
+bruke

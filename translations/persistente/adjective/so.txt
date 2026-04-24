@@ -1,1 +1,3 @@
-["joogto ah","waara","adkaysi leh"]
+joogto ah
+waara
+adkaysi leh

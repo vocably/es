@@ -1,1 +1,3 @@
-["venovať","zasvätiť","používať"]
+venovať
+zasvätiť
+používať

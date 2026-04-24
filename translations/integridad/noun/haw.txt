@@ -1,1 +1,3 @@
-["pono","paʻa","ʻoiaʻiʻo"]
+pono
+paʻa
+ʻoiaʻiʻo

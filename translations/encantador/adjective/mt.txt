@@ -1,1 +1,3 @@
-["sabiħ","seħra","li jisħor"]
+sabiħ
+seħra
+li jisħor

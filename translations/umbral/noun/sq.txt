@@ -1,1 +1,3 @@
-["prag","fill","hyrje"]
+prag
+fill
+hyrje

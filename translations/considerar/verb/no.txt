@@ -1,1 +1,3 @@
-["vurdere","anse","overveie"]
+vurdere
+anse
+overveie

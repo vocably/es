@@ -1,1 +1,3 @@
-["kompleta","tutenhava","integrala"]
+kompleta
+tutenhava
+integrala

@@ -1,1 +1,3 @@
-["pataki","tóye","tókun"]
+pataki
+tóye
+tókun

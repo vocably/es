@@ -1,1 +1,2 @@
-["rhybuddiol","darbodus"]
+rhybuddiol
+darbodus

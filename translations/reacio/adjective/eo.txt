@@ -1,1 +1,2 @@
-["rezistema","malema"]
+rezistema
+malema

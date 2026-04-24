@@ -1,1 +1,3 @@
-["yoqimtoy","maftunkor","sehrgar"]
+yoqimtoy
+maftunkor
+sehrgar

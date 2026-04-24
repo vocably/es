@@ -1,1 +1,3 @@
-["konsegwenza","riverberazzjoni","importanza"]
+konsegwenza
+riverberazzjoni
+importanza

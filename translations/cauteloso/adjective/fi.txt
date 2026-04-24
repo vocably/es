@@ -1,1 +1,2 @@
-["varovainen","salakavala"]
+varovainen
+salakavala

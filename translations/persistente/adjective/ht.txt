@@ -1,1 +1,3 @@
-["ki pèsiste","ki dire lontan","ki pa tonbe"]
+ki pèsiste
+ki dire lontan
+ki pa tonbe

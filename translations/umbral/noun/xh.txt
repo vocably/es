@@ -1,1 +1,3 @@
-["Umnyango","Isango","Ukuqala"]
+Umnyango
+Isango
+Ukuqala

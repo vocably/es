@@ -1,1 +1,3 @@
-["vernoléissegen","net oppassen","verluer loossen"]
+vernoléissegen
+net oppassen
+verluer loossen

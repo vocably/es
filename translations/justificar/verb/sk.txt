@@ -1,1 +1,3 @@
-["odôvodniť","ospravedlniť","zarovnať"]
+odôvodniť
+ospravedlniť
+zarovnať

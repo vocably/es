@@ -1,1 +1,4 @@
-["fandaharana","filaharana","fahaiza-manao","didim-panjakana"]
+fandaharana
+filaharana
+fahaiza-manao
+didim-panjakana

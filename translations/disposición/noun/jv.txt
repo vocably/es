@@ -1,1 +1,4 @@
-["tata","aturan","pranatan","prentah"]
+tata
+aturan
+pranatan
+prentah

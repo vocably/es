@@ -1,1 +1,2 @@
-["ayaw","tutol"]
+ayaw
+tutol

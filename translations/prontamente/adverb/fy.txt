@@ -1,1 +1,2 @@
-["gau","fluch"]
+gau
+fluch

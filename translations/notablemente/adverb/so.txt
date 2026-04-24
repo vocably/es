@@ -1,1 +1,2 @@
-["si la fiican","si weyn"]
+si la fiican
+si weyn

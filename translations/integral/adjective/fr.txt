@@ -1,1 +1,3 @@
-["intégral","complet","entier"]
+intégral
+complet
+entier

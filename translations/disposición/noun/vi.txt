@@ -1,1 +1,4 @@
-["sự sắp xếp","sự bố trí","khuynh hướng","quy định"]
+sự sắp xếp
+sự bố trí
+khuynh hướng
+quy định

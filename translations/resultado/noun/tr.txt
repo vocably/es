@@ -1,1 +1,3 @@
-["sonuç","netice","puan"]
+sonuç
+netice
+puan

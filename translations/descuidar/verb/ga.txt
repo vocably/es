@@ -1,1 +1,3 @@
-["failligh","dearmad a dhéanamh de","lig i ndearmad"]
+failligh
+dearmad a dhéanamh de
+lig i ndearmad

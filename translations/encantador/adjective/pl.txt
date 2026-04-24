@@ -1,1 +1,3 @@
-["uroczy","czarujący","zachwycający"]
+uroczy
+czarujący
+zachwycający

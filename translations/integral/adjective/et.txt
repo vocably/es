@@ -1,1 +1,3 @@
-["terviklik","täistera","integraal"]
+terviklik
+täistera
+integraal

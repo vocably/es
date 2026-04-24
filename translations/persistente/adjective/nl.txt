@@ -1,1 +1,3 @@
-["aanhoudend","persistent","duurzaam"]
+aanhoudend
+persistent
+duurzaam

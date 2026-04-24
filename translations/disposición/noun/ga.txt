@@ -1,1 +1,4 @@
-["socrú","ordú","treoir","riar"]
+socrú
+ordú
+treoir
+riar

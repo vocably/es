@@ -1,1 +1,3 @@
-["okubalulekile","okunenjongo","okucacile"]
+okubalulekile
+okunenjongo
+okucacile

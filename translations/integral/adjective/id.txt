@@ -1,1 +1,3 @@
-["integral","utuh","menyeluruh"]
+integral
+utuh
+menyeluruh

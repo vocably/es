@@ -1,1 +1,3 @@
-["fakazela","lungisa","enza kube semthethweni"]
+fakazela
+lungisa
+enza kube semthethweni

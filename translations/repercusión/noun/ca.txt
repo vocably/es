@@ -1,1 +1,3 @@
-["repercussió","rebot","transcendència"]
+repercussió
+rebot
+transcendència

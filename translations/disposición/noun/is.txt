@@ -1,1 +1,4 @@
-["ráðstöfun","skipulag","hæfni","fyrirmæli"]
+ráðstöfun
+skipulag
+hæfni
+fyrirmæli

@@ -1,1 +1,3 @@
-["lävi","künnis","algus"]
+lävi
+künnis
+algus

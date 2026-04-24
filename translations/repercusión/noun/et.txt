@@ -1,1 +1,3 @@
-["tagajärg","mõju","järelkaja"]
+tagajärg
+mõju
+järelkaja

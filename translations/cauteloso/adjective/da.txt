@@ -1,1 +1,2 @@
-["forsigtig","diskret"]
+forsigtig
+diskret

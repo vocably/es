@@ -1,1 +1,3 @@
-["botle","rateha","kgahleha"]
+botle
+rateha
+kgahleha

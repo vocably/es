@@ -1,1 +1,3 @@
-["apsvarstyti","manyti","laikyti"]
+apsvarstyti
+manyti
+laikyti

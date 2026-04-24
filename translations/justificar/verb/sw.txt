@@ -1,1 +1,3 @@
-["thibitisha","halalisha","panga"]
+thibitisha
+halalisha
+panga

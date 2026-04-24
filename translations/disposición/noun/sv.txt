@@ -1,1 +1,4 @@
-["disposition","arrangemang","anlag","bestammelse"]
+disposition
+arrangemang
+anlag
+bestammelse

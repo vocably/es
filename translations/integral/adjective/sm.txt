@@ -1,1 +1,3 @@
-["atoa","saʻo","faʻaopoopo"]
+atoa
+saʻo
+faʻaopoopo

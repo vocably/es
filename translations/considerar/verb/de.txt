@@ -1,1 +1,3 @@
-["prüfen","betrachten","erwägen"]
+prüfen
+betrachten
+erwägen

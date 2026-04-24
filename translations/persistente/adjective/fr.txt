@@ -1,1 +1,3 @@
-["persistant","constant","permanent"]
+persistant
+constant
+permanent

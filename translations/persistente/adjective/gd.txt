@@ -1,1 +1,3 @@
-["seasmhach","maireannach","buan"]
+seasmhach
+maireannach
+buan

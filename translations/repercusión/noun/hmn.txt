@@ -1,1 +1,3 @@
-["kev cuam tshuam","kev thaws rov qab","qhov tseem ceeb"]
+kev cuam tshuam
+kev thaws rov qab
+qhov tseem ceeb

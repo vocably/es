@@ -1,1 +1,3 @@
-["yakazara","isina kucheneswa","yechiverengero"]
+yakazara
+isina kucheneswa
+yechiverengero

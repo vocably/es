@@ -1,1 +1,4 @@
-["korraldus","paigutus","anne","määrus"]
+korraldus
+paigutus
+anne
+määrus

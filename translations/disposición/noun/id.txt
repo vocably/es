@@ -1,1 +1,4 @@
-["disposisi","pengaturan","ketentuan","kecenderungan"]
+disposisi
+pengaturan
+ketentuan
+kecenderungan

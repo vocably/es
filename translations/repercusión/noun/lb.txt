@@ -1,1 +1,3 @@
-["Auswierkung","Repercussioun","Wichtegkeet"]
+Auswierkung
+Repercussioun
+Wichtegkeet

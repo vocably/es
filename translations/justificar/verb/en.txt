@@ -1,1 +1,3 @@
-["justify","warrant","substantiate"]
+justify
+warrant
+substantiate

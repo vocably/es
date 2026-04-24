@@ -1,1 +1,3 @@
-["kalıcı","sürekli","inatçı"]
+kalıcı
+sürekli
+inatçı

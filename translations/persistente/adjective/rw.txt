@@ -1,1 +1,3 @@
-["udashikamye","udahwema","udacogora"]
+udashikamye
+udahwema
+udacogora

@@ -1,1 +1,3 @@
-["charmant","zauberhaft","verzaubernd"]
+charmant
+zauberhaft
+verzaubernd

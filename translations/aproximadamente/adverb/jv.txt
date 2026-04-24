@@ -1,1 +1,2 @@
-["kira-kira","sekirane"]
+kira-kira
+sekirane

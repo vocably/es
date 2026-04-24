@@ -1,1 +1,3 @@
-["to dedicate","to devote","to set aside"]
+to dedicate
+to devote
+to set aside

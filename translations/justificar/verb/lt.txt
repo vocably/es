@@ -1,1 +1,3 @@
-["pagrįsti","teisinti","išlyginti"]
+pagrįsti
+teisinti
+išlyginti

@@ -1,1 +1,2 @@
-["réticent","réfractaire"]
+réticent
+réfractaire

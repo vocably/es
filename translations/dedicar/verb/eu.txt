@@ -1,1 +1,3 @@
-["eskaini","dedikatu","erabili"]
+eskaini
+dedikatu
+erabili

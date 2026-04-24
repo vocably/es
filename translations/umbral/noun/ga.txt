@@ -1,1 +1,3 @@
-["tairseach","tús","praghas íseal"]
+tairseach
+tús
+praghas íseal

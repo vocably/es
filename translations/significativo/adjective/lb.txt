@@ -1,1 +1,3 @@
-["wichteg","bedeitend","aussagekräftech"]
+wichteg
+bedeitend
+aussagekräftech

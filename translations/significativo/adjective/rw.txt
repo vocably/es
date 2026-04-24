@@ -1,1 +1,3 @@
-["Ingirakamaro","Ifite ireme","Ifite agaciro"]
+Ingirakamaro
+Ifite ireme
+Ifite agaciro

@@ -1,1 +1,3 @@
-["paona","piha","koho"]
+paona
+piha
+koho

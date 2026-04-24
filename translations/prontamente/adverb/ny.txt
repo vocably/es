@@ -1,1 +1,2 @@
-["msanga","mwamsanga"]
+msanga
+mwamsanga

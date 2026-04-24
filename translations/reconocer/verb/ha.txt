@@ -1,1 +1,4 @@
-["ganewa","shaida","gode","sani"]
+ganewa
+shaida
+gode
+sani

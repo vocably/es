@@ -1,1 +1,3 @@
-["whakatapu","toha","whakapau"]
+whakatapu
+toha
+whakapau

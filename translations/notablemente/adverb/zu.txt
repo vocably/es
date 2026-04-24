@@ -1,1 +1,2 @@
-["ngokumangalisayo","kakhulu"]
+ngokumangalisayo
+kakhulu

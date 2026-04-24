@@ -1,1 +1,2 @@
-["tunnistaa","tunnustaa"]
+tunnistaa
+tunnustaa

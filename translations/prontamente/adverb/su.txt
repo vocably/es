@@ -1,1 +1,2 @@
-["enggal","gancang"]
+enggal
+gancang

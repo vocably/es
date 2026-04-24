@@ -1,1 +1,4 @@
-["iloiloina","talia","faafetai","silafia"]
+iloiloina
+talia
+faafetai
+silafia

@@ -1,1 +1,4 @@
-["ʻike","hoʻomaopopo","mah aloha","ʻae"]
+ʻike
+hoʻomaopopo
+mah aloha
+ʻae

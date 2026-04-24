@@ -1,1 +1,3 @@
-["integral","i plot","i plote"]
+integral
+i plot
+i plote

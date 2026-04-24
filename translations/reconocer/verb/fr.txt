@@ -1,1 +1,4 @@
-["reconnaître","identifier","admettre","témoigner"]
+reconnaître
+identifier
+admettre
+témoigner

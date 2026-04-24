@@ -1,1 +1,3 @@
-["incantevole","affascinante","stregone"]
+incantevole
+affascinante
+stregone

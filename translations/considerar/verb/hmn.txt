@@ -1,1 +1,3 @@
-["xav","saib","txiav txim"]
+xav
+saib
+txiav txim

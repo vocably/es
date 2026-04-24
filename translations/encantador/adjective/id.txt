@@ -1,1 +1,3 @@
-["mempesona","menarik","penyihir"]
+mempesona
+menarik
+penyihir

@@ -1,1 +1,4 @@
-["xedapen","antolamendu","prestutasun","agindu"]
+xedapen
+antolamendu
+prestutasun
+agindu

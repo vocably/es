@@ -1,1 +1,3 @@
-["dearmad a dhèanamh air","dìochuimhnich","fàgail air chùl"]
+dearmad a dhèanamh air
+dìochuimhnich
+fàgail air chùl

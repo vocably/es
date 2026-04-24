@@ -1,1 +1,2 @@
-["rezistan","refize"]
+rezistan
+refize

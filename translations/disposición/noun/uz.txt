@@ -1,1 +1,4 @@
-["joylashtirish","tartib","moyillik","farmon"]
+joylashtirish
+tartib
+moyillik
+farmon

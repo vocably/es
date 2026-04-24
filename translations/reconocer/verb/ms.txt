@@ -1,1 +1,4 @@
-["mengenal pasti","mengakui","mengenali","menghargai"]
+mengenal pasti
+mengakui
+mengenali
+menghargai

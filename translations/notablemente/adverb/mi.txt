@@ -1,1 +1,2 @@
-["kia mīharo","kia tino"]
+kia mīharo
+kia tino

@@ -1,1 +1,4 @@
-["nhazi","usoro","ikike","iwu"]
+nhazi
+usoro
+ikike
+iwu

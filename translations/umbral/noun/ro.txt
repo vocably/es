@@ -1,1 +1,3 @@
-["prag","prag de sus","început"]
+prag
+prag de sus
+început

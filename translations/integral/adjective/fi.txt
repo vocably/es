@@ -1,1 +1,3 @@
-["täydellinen","kokonainen","eheä"]
+täydellinen
+kokonainen
+eheä

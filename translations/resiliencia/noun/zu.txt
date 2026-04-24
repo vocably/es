@@ -1,1 +1,2 @@
-["Ukuqina","Ukubuyela esimweni"]
+Ukuqina
+Ukubuyela esimweni

@@ -1,1 +1,2 @@
-["opfallend","oansjenlik"]
+opfallend
+oansjenlik

@@ -1,1 +1,3 @@
-["paka","lokafatsa","loka"]
+paka
+lokafatsa
+loka

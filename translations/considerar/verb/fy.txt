@@ -1,1 +1,3 @@
-["besjen","achtje","oerweagje"]
+besjen
+achtje
+oerweagje

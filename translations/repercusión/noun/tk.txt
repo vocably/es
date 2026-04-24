@@ -1,1 +1,3 @@
-["netije","yza täsir","ähmiýet"]
+netije
+yza täsir
+ähmiýet

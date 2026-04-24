@@ -1,1 +1,3 @@
-["raara","nye","tinye"]
+raara
+nye
+tinye

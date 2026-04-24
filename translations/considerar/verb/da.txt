@@ -1,1 +1,3 @@
-["overveje","betragte","anse"]
+overveje
+betragte
+anse

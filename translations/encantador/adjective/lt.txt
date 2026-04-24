@@ -1,1 +1,3 @@
-["žavus","kerintis","burtininkas"]
+žavus
+kerintis
+burtininkas

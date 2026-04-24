@@ -1,1 +1,2 @@
-["garşy","islegsiz"]
+garşy
+islegsiz

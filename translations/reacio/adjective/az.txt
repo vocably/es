@@ -1,1 +1,2 @@
-["istəksiz","boyun qaçıran"]
+istəksiz
+boyun qaçıran

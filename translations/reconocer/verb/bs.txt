@@ -1,1 +1,4 @@
-["prepoznati","priznati","identifikovati","zahvaliti"]
+prepoznati
+priznati
+identifikovati
+zahvaliti

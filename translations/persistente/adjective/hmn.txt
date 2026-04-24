@@ -1,1 +1,3 @@
-["ruaj khov","nyob ntev","tsis tuag"]
+ruaj khov
+nyob ntev
+tsis tuag

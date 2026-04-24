@@ -1,1 +1,3 @@
-["manamarina","mankatoa","mandrindra"]
+manamarina
+mankatoa
+mandrindra

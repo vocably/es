@@ -1,1 +1,3 @@
-["forsømme","negilisjere","slurve"]
+forsømme
+negilisjere
+slurve

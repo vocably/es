@@ -1,1 +1,3 @@
-["cjelovitost","integritet","poštenje"]
+cjelovitost
+integritet
+poštenje

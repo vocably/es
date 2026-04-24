@@ -1,1 +1,3 @@
-["buaidh","ath-bhualadh","cudrom"]
+buaidh
+ath-bhualadh
+cudrom

@@ -1,1 +1,3 @@
-["regverdig","verdedig","pas"]
+regverdig
+verdedig
+pas

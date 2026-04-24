@@ -1,1 +1,3 @@
-["vztrajen","dolgotrajen","obstojen"]
+vztrajen
+dolgotrajen
+obstojen

@@ -1,1 +1,3 @@
-["muhimu","dhahiri","maalum"]
+muhimu
+dhahiri
+maalum

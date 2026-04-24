@@ -1,1 +1,3 @@
-["ubunye","ukuphelela","ukuthembeka"]
+ubunye
+ukuphelela
+ukuthembeka

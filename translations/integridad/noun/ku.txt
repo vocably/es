@@ -1,1 +1,3 @@
-["yekparçeyî","temamî","rastgoî"]
+yekparçeyî
+temamî
+rastgoî

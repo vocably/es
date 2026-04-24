@@ -1,1 +1,3 @@
-["üns bermezlik","seresap bolmazlyk","aladany elden bermek"]
+üns bermezlik
+seresap bolmazlyk
+aladany elden bermek

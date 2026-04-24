@@ -1,1 +1,2 @@
-["ka bonako","kaha kapele"]
+ka bonako
+kaha kapele

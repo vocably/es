@@ -1,1 +1,4 @@
-["die Anordnung","die Verfügung","die Bereitschaft","die Bestimmung"]
+die Anordnung
+die Verfügung
+die Bereitschaft
+die Bestimmung

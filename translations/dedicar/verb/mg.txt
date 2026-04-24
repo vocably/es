@@ -1,1 +1,3 @@
-["manokana","manolotra","mandany"]
+manokana
+manolotra
+mandany

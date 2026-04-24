@@ -1,1 +1,3 @@
-["Ajeg","Maneuh","Langgeung"]
+Ajeg
+Maneuh
+Langgeung

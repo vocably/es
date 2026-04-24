@@ -1,1 +1,4 @@
-["beskikking","reëling","aanleg","bepaling"]
+beskikking
+reëling
+aanleg
+bepaling

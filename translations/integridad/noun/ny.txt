@@ -1,1 +1,3 @@
-["umphumphu","ungwiro","ukhulupirika"]
+umphumphu
+ungwiro
+ukhulupirika

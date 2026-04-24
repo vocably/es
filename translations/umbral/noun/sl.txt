@@ -1,1 +1,3 @@
-["prag","mejni prag","začetek"]
+prag
+mejni prag
+začetek

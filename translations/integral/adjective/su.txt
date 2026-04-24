@@ -1,1 +1,3 @@
-["gembleng","utuh","integral"]
+gembleng
+utuh
+integral

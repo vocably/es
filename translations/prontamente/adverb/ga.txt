@@ -1,1 +1,2 @@
-["go tapaidh","gan mhoill"]
+go tapaidh
+gan mhoill

@@ -1,1 +1,3 @@
-["anopfuurira","isingaperi","isingadonhi"]
+anopfuurira
+isingaperi
+isingadonhi

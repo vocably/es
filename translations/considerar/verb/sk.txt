@@ -1,1 +1,3 @@
-["zvážiť","považovať","uvažovať"]
+zvážiť
+považovať
+uvažovať

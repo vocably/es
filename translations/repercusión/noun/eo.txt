@@ -1,1 +1,3 @@
-["sekvo","konsekvenco","resalto"]
+sekvo
+konsekvenco
+resalto

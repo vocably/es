@@ -1,1 +1,3 @@
-["canlyniad","sgôr","cynnyrch"]
+canlyniad
+sgôr
+cynnyrch

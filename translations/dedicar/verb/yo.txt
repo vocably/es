@@ -1,1 +1,3 @@
-["yà sí","fi fún","gbéyàwó"]
+yà sí
+fi fún
+gbéyàwó

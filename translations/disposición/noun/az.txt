@@ -1,1 +1,4 @@
-["sərəncam","qərar","əmr","tədbir"]
+sərəncam
+qərar
+əmr
+tədbir

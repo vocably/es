@@ -1,1 +1,4 @@
-["disposição","arranjo","aptidão","determinação"]
+disposição
+arranjo
+aptidão
+determinação

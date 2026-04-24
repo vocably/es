@@ -1,1 +1,3 @@
-["manan-danja","misy heviny","mazava"]
+manan-danja
+misy heviny
+mazava

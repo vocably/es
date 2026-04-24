@@ -1,1 +1,2 @@
-["opazno","zelo"]
+opazno
+zelo

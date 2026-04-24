@@ -1,1 +1,4 @@
-["dispozisyon","aranjman","aptitid","lòd"]
+dispozisyon
+aranjman
+aptitid
+lòd

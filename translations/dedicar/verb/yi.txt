@@ -1,1 +1,3 @@
-["widmen","opfern","fargeshtaltn"]
+widmen
+opfern
+fargeshtaltn

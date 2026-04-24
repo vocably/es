@@ -1,1 +1,3 @@
-["celosten","polnozrnat","integralen"]
+celosten
+polnozrnat
+integralen

@@ -1,1 +1,3 @@
-["gutanga impamvu","kwemeza","guhuza"]
+gutanga impamvu
+kwemeza
+guhuza

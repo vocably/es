@@ -1,1 +1,3 @@
-["sakamako","tasiri","ma'ana"]
+sakamako
+tasiri
+ma'ana

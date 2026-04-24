@@ -1,1 +1,3 @@
-["buo","kumpleto","integral"]
+buo
+kumpleto
+integral

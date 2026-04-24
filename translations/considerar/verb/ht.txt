@@ -1,1 +1,3 @@
-["konsidere","estime","reflechi"]
+konsidere
+estime
+reflechi

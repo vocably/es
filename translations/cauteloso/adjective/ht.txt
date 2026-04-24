@@ -1,1 +1,2 @@
-["pridan","mezire"]
+pridan
+mezire

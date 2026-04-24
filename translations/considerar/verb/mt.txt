@@ -1,1 +1,3 @@
-["ikkunsidra","qies","irrifletti"]
+ikkunsidra
+qies
+irrifletti

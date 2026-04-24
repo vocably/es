@@ -1,1 +1,1 @@
-["implizit"]
+implizit

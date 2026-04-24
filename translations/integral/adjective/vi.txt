@@ -1,1 +1,3 @@
-["toàn bộ","nguyên cám","tích phân"]
+toàn bộ
+nguyên cám
+tích phân

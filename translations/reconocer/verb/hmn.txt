@@ -1,1 +1,4 @@
-["paub","lees","pom","ua tsaug"]
+paub
+lees
+pom
+ua tsaug

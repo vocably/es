@@ -1,1 +1,3 @@
-["yntegriteit","folsleinens","earlikens"]
+yntegriteit
+folsleinens
+earlikens

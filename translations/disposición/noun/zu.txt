@@ -1,1 +1,4 @@
-["ukulungiselela","ukuhlela","isimo","umthetho"]
+ukulungiselela
+ukuhlela
+isimo
+umthetho

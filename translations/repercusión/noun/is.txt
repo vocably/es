@@ -1,1 +1,3 @@
-["afleiðing","áhrif","endurkast"]
+afleiðing
+áhrif
+endurkast

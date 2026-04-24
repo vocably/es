@@ -1,1 +1,3 @@
-["encantador","fascinante","mago"]
+encantador
+fascinante
+mago

@@ -1,1 +1,3 @@
-["kuperfe cta","kururama","kuvimbika"]
+kuperfe cta
+kururama
+kuvimbika

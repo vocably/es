@@ -1,1 +1,3 @@
-["ricunnosce","ricunnoscia","ricunnosciutu"]
+ricunnosce
+ricunnoscia
+ricunnosciutu

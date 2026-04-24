@@ -1,1 +1,2 @@
-["graduelman","tikras pa tikras"]
+graduelman
+tikras pa tikras

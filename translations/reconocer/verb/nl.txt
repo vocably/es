@@ -1,1 +1,4 @@
-["erkennen","herkennen","onderkennen","bedanken"]
+erkennen
+herkennen
+onderkennen
+bedanken

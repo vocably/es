@@ -1,1 +1,4 @@
-["erkennen","unerkennen","honoréieren","identifizéieren"]
+erkennen
+unerkennen
+honoréieren
+identifizéieren

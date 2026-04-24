@@ -1,1 +1,3 @@
-["resultat","utfall","poäng"]
+resultat
+utfall
+poäng

@@ -1,1 +1,3 @@
-["gevolg","weerslag","impact"]
+gevolg
+weerslag
+impact

@@ -1,1 +1,3 @@
-["puka","anuu","kae"]
+puka
+anuu
+kae

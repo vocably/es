@@ -1,1 +1,3 @@
-["yaxlitlik","to'liqlik","halollik"]
+yaxlitlik
+to'liqlik
+halollik

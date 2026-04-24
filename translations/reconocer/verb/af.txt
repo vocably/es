@@ -1,1 +1,4 @@
-["herken","erken","identifiseer","bedank"]
+herken
+erken
+identifiseer
+bedank

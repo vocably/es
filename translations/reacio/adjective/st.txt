@@ -1,1 +1,2 @@
-["hanyetsang","khahlanong"]
+hanyetsang
+khahlanong

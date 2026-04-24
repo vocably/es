@@ -1,1 +1,3 @@
-["impak","weerkaatsing","gevolg"]
+impak
+weerkaatsing
+gevolg

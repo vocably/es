@@ -1,1 +1,3 @@
-["qhov rooj","theem","pib"]
+qhov rooj
+theem
+pib

@@ -1,1 +1,3 @@
-["Schwelle","Grenzwert","Anfang"]
+Schwelle
+Grenzwert
+Anfang

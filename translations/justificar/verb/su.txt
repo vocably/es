@@ -1,1 +1,3 @@
-["ngabuktoskeun","ngajadikeun sah","ngajajar"]
+ngabuktoskeun
+ngajadikeun sah
+ngajajar

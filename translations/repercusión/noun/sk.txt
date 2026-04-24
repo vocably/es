@@ -1,1 +1,3 @@
-["dopad","dôsledok","ohlas"]
+dopad
+dôsledok
+ohlas

@@ -1,1 +1,2 @@
-["saro-kenatra","tsy tia"]
+saro-kenatra
+tsy tia

@@ -1,1 +1,3 @@
-["preučiti","meniti","razmisliti"]
+preučiti
+meniti
+razmisliti

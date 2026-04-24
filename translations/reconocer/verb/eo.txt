@@ -1,1 +1,4 @@
-["rekoni","agnoski","identigi","esprimi dankon"]
+rekoni
+agnoski
+identigi
+esprimi dankon

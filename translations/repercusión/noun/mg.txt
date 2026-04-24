@@ -1,1 +1,3 @@
-["vokany","fiantraikany","akony"]
+vokany
+fiantraikany
+akony

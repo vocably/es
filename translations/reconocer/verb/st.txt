@@ -1,1 +1,4 @@
-["hloaea","amohela","tseba","leboha"]
+hloaea
+amohela
+tseba
+leboha

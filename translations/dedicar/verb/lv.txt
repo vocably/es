@@ -1,1 +1,3 @@
-["veltīt","ziedo","nodarboties"]
+veltīt
+ziedo
+nodarboties

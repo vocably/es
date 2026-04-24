@@ -1,1 +1,3 @@
-["rjochtfeardigje","justifisearje","ferantwurdzje"]
+rjochtfeardigje
+justifisearje
+ferantwurdzje

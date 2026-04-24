@@ -1,1 +1,3 @@
-["kupendeza","mchawi","mzuri"]
+kupendeza
+mchawi
+mzuri

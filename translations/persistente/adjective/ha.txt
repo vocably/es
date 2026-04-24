@@ -1,1 +1,3 @@
-["mai dorewa","mai jimrewa","mai tsayayye"]
+mai dorewa
+mai jimrewa
+mai tsayayye

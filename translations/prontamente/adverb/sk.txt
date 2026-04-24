@@ -1,1 +1,2 @@
-["rýchlo","okamžite"]
+rýchlo
+okamžite

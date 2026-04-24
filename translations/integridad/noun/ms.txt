@@ -1,1 +1,3 @@
-["integriti","kesempurnaan","kejujuran"]
+integriti
+kesempurnaan
+kejujuran

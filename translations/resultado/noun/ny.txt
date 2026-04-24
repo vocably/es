@@ -1,1 +1,3 @@
-["zotsatira","chiwerengero","yankho"]
+zotsatira
+chiwerengero
+yankho

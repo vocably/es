@@ -1,1 +1,3 @@
-["integritate","caracter","cinste"]
+integritate
+caracter
+cinste

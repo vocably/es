@@ -1,1 +1,2 @@
-["faiceallach","rabhaidheach"]
+faiceallach
+rabhaidheach

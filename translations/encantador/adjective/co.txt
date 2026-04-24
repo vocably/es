@@ -1,1 +1,3 @@
-["incantevule","affascinante","magu"]
+incantevule
+affascinante
+magu

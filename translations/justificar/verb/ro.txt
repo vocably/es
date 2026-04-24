@@ -1,1 +1,3 @@
-["a justifica","a indreptati","a alinia"]
+a justifica
+a indreptati
+a alinia

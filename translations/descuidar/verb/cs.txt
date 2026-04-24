@@ -1,1 +1,3 @@
-["zanedbávat","opomíjet","ztratit ostražitost"]
+zanedbávat
+opomíjet
+ztratit ostražitost

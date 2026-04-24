@@ -1,1 +1,3 @@
-["kíkún","odidi","gbogbo"]
+kíkún
+odidi
+gbogbo

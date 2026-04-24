@@ -1,1 +1,3 @@
-["chứng minh","biện minh","căn chỉnh"]
+chứng minh
+biện minh
+căn chỉnh

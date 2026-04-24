@@ -1,1 +1,3 @@
-["paskirti","dedikuoti","pašvęsti"]
+paskirti
+dedikuoti
+pašvęsti

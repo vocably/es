@@ -1,1 +1,3 @@
-["tohe","pūmau","ū"]
+tohe
+pūmau
+ū

@@ -1,1 +1,3 @@
-["quyến rũ","đáng yêu","mê hoặc"]
+quyến rũ
+đáng yêu
+mê hoặc

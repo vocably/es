@@ -1,1 +1,2 @@
-["bemerkenswert","erheblich"]
+bemerkenswert
+erheblich

@@ -1,1 +1,2 @@
-["mwangalifu","hila"]
+mwangalifu
+hila

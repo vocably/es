@@ -1,1 +1,3 @@
-["věnovat","zasvětit","strávit"]
+věnovat
+zasvětit
+strávit

@@ -1,1 +1,4 @@
-["aturan","tata","paréntah","kamampuh"]
+aturan
+tata
+paréntah
+kamampuh

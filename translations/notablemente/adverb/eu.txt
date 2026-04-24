@@ -1,1 +1,2 @@
-["nabarmen","aintzat hartzeko moduan"]
+nabarmen
+aintzat hartzeko moduan

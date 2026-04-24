@@ -1,1 +1,3 @@
-["sa feleng","sa nako e telele","sa kamehla"]
+sa feleng
+sa nako e telele
+sa kamehla

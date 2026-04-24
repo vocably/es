@@ -1,1 +1,2 @@
-["cauteloso","circunspectu"]
+cauteloso
+circunspectu

@@ -1,1 +1,3 @@
-["dedicar","consagrar","destinar"]
+dedicar
+consagrar
+destinar

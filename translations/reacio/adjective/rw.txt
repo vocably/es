@@ -1,1 +1,2 @@
-["utabishaka","unangira"]
+utabishaka
+unangira

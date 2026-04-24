@@ -1,1 +1,3 @@
-["wokongola","wosangalatsa","wamatsenga"]
+wokongola
+wosangalatsa
+wamatsenga

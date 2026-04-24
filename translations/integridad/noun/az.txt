@@ -1,1 +1,3 @@
-["bütövlük","dürüstlük","tamlıq"]
+bütövlük
+dürüstlük
+tamlıq

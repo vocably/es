@@ -1,1 +1,3 @@
-["atkaklus","patvarus","ištvermingas"]
+atkaklus
+patvarus
+ištvermingas

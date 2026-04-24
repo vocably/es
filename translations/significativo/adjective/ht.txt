@@ -1,1 +1,3 @@
-["enpòtan","siyifikatif","ki gen sans"]
+enpòtan
+siyifikatif
+ki gen sans

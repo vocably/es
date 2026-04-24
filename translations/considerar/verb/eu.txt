@@ -1,1 +1,3 @@
-["kontuan hartu","iritzi","gogoeta egin"]
+kontuan hartu
+iritzi
+gogoeta egin

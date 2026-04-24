@@ -1,1 +1,3 @@
-["descurar","negligenciar","desleixar-se"]
+descurar
+negligenciar
+desleixar-se

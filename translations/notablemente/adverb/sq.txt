@@ -1,1 +1,2 @@
-["dukshëm","veçanërisht"]
+dukshëm
+veçanërisht

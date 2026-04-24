@@ -1,1 +1,3 @@
-["sadaukar","ba da kai","mai da hankali"]
+sadaukar
+ba da kai
+mai da hankali

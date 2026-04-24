@@ -1,1 +1,3 @@
-["khomo","pakhomo","chipata"]
+khomo
+pakhomo
+chipata

@@ -1,1 +1,3 @@
-["persistent","dauerhaft","bestänneg"]
+persistent
+dauerhaft
+bestänneg

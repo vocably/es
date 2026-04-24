@@ -1,1 +1,4 @@
-["genkende","erkende","anerkende","påskønne"]
+genkende
+erkende
+anerkende
+påskønne

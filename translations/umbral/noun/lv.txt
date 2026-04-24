@@ -1,1 +1,3 @@
-["slieksnis","sākotnējais posms","robežvērtība"]
+slieksnis
+sākotnējais posms
+robežvērtība

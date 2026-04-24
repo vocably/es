@@ -1,1 +1,3 @@
-["iarmhairt","frithchaitheamh","tábhacht"]
+iarmhairt
+frithchaitheamh
+tábhacht

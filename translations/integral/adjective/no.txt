@@ -1,1 +1,3 @@
-["integrert","fullkorn","integral"]
+integrert
+fullkorn
+integral

@@ -1,1 +1,3 @@
-["menarik","mempesonakan","penyihir"]
+menarik
+mempesonakan
+penyihir

@@ -1,1 +1,3 @@
-["integritet","ndershmëri","plotësi"]
+integritet
+ndershmëri
+plotësi

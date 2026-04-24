@@ -1,1 +1,4 @@
-["rozpoznať","uznať","identifikovať","oceniť"]
+rozpoznať
+uznať
+identifikovať
+oceniť

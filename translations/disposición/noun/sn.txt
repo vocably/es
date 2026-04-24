@@ -1,1 +1,4 @@
-["urongwa","gadziro","kugadzirira","mitemo"]
+urongwa
+gadziro
+kugadzirira
+mitemo

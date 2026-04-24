@@ -1,1 +1,4 @@
-["susunan","peruntukan","keupayaan","arahan"]
+susunan
+peruntukan
+keupayaan
+arahan

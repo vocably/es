@@ -1,1 +1,3 @@
-["ripercussione","cunsiguenza","impattu"]
+ripercussione
+cunsiguenza
+impattu

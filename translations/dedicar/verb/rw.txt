@@ -1,1 +1,3 @@
-["gutura","kwegurira","gukoresha umwanya"]
+gutura
+kwegurira
+gukoresha umwanya

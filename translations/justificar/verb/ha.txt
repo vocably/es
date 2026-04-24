@@ -1,1 +1,3 @@
-["tabbatar","halatta","daidaita"]
+tabbatar
+halatta
+daidaita

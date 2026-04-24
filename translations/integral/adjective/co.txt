@@ -1,1 +1,3 @@
-["integrale","intieru","cumplettu"]
+integrale
+intieru
+cumplettu

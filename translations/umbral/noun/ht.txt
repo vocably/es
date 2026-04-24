@@ -1,1 +1,3 @@
-["pòt","seuil","papòt"]
+pòt
+seuil
+papòt

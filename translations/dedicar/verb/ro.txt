@@ -1,1 +1,3 @@
-["a dedica","a consacra","a-și dedica"]
+a dedica
+a consacra
+a-și dedica

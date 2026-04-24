@@ -1,1 +1,4 @@
-["òrdan","reachd","comas","ullamhachd"]
+òrdan
+reachd
+comas
+ullamhachd

@@ -1,1 +1,3 @@
-["persistent","durador","perenne"]
+persistent
+durador
+perenne

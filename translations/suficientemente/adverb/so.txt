@@ -1,1 +1,2 @@
-["si fiican","ku filan"]
+si fiican
+ku filan

@@ -1,1 +1,3 @@
-["ambang","nilai ambang","permulaan"]
+ambang
+nilai ambang
+permulaan

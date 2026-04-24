@@ -1,1 +1,2 @@
-["integraal","volkoren"]
+integraal
+volkoren

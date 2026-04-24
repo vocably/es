@@ -1,1 +1,2 @@
-["go hionú","go hintuigthe"]
+go hionú
+go hintuigthe

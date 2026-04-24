@@ -1,1 +1,4 @@
-["cydnabod","adnabod","canfod","arddangos"]
+cydnabod
+adnabod
+canfod
+arddangos

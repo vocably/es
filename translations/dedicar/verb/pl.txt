@@ -1,1 +1,3 @@
-["przeznaczać","poświęcać","dedykować"]
+przeznaczać
+poświęcać
+dedykować

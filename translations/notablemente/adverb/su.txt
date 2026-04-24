@@ -1,1 +1,2 @@
-["sacara signifikan","sacara nyolok"]
+sacara signifikan
+sacara nyolok

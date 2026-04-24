@@ -1,1 +1,4 @@
-["kilalanin","aminin","tanawin","pahalagahan"]
+kilalanin
+aminin
+tanawin
+pahalagahan

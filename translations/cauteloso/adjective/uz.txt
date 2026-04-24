@@ -1,1 +1,2 @@
-["ehtiyotkor","sirli"]
+ehtiyotkor
+sirli

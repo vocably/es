@@ -1,1 +1,3 @@
-["integral","complet","sencer"]
+integral
+complet
+sencer

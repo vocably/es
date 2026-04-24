@@ -1,1 +1,3 @@
-["impembelelo","isiphumo","ukubuyela umva"]
+impembelelo
+isiphumo
+ukubuyela umva

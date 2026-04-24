@@ -1,1 +1,3 @@
-["bitewi","doly","integraly"]
+bitewi
+doly
+integraly

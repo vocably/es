@@ -1,1 +1,3 @@
-["rechtvaardigen","verantwoorden","justificeren"]
+rechtvaardigen
+verantwoorden
+justificeren

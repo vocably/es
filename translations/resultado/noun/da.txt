@@ -1,1 +1,3 @@
-["resultat","udfald","facit"]
+resultat
+udfald
+facit
