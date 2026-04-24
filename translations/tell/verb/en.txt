@@ -1,0 +1,5 @@
+tell
+narrate
+distinguish
+order
+reveal

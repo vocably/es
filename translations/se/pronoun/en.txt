@@ -1,0 +1,8 @@
+himself
+herself
+itself
+themselves
+oneself
+you (formal singular)
+them (masculine plural)
+them (feminine plural)

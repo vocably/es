@@ -1,0 +1,3 @@
+balanced
+even
+well-balanced

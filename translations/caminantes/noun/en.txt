@@ -1,0 +1,3 @@
+walkers
+hikers
+pedestrians

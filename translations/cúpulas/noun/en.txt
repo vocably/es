@@ -1,0 +1,3 @@
+domes
+cupolas
+vaults

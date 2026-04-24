@@ -1,0 +1,4 @@
+livestock
+cattle
+property
+wealth

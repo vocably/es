@@ -1,0 +1,4 @@
+common
+ordinary
+rude
+low-quality

@@ -1,0 +1,4 @@
+focus
+light bulb
+spotlight
+source

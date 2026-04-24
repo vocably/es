@@ -1,0 +1,4 @@
+stiff
+rigid
+broke
+dead

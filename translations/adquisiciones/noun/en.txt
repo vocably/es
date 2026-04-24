@@ -1,0 +1,3 @@
+acquisitions
+purchases
+procurement

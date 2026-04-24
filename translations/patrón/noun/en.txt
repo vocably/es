@@ -1,0 +1,5 @@
+pattern
+model
+employer
+patron saint
+standard

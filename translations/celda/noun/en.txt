@@ -1,0 +1,3 @@
+cell
+solar cell
+photovoltaic cell

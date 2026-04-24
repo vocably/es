@@ -1,0 +1,4 @@
+piece
+bit
+while
+horn

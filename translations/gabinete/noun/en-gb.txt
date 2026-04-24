@@ -1,0 +1,4 @@
+cabinet
+cupboard
+study
+office

@@ -1,0 +1,4 @@
+shooter
+handle
+marksman
+slingshot

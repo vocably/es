@@ -1,0 +1,4 @@
+open
+opened
+frank
+outdoors

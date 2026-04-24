@@ -1,0 +1,4 @@
+avoid
+force
+edge
+hem
