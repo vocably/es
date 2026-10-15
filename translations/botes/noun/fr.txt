@@ -1,0 +1,4 @@
+bateaux
+pots
+bonds
+cagnotte

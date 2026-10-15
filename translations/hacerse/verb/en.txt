@@ -1,0 +1,5 @@
+become
+get
+turn
+grow
+make oneself

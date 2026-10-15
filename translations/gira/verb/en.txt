@@ -1,0 +1,3 @@
+turn
+rotate
+spin

@@ -1,0 +1,4 @@
+tablet
+board
+bar
+splint

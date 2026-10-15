@@ -1,0 +1,3 @@
+fullness
+satiety
+abundance

@@ -1,0 +1,3 @@
+to weather
+to dodge
+to overcome

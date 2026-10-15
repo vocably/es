@@ -1,0 +1,4 @@
+drop
+loss
+sick leave
+casualty

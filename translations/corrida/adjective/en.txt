@@ -1,0 +1,4 @@
+run
+italic
+open
+shifted

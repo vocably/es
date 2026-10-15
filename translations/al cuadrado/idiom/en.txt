@@ -1,0 +1,2 @@
+squared
+to the power of two

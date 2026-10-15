@@ -1,0 +1,3 @@
+rarities
+oddities
+peculiarities

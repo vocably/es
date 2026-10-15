@@ -1,0 +1,4 @@
+camera
+chamber
+house
+inner tube

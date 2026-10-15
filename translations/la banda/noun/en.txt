@@ -1,0 +1,5 @@
+band
+strip
+sash
+gang
+side

@@ -1,0 +1,3 @@
+dilate
+delay
+spread

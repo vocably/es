@@ -1,0 +1,5 @@
+bathroom
+bath
+restroom
+toilet
+dip

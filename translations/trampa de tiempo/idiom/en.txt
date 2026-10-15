@@ -1,0 +1,2 @@
+time sink
+time trap

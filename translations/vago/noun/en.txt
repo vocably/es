@@ -1,0 +1,3 @@
+lazy person
+tramp
+open ticket

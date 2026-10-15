@@ -1,0 +1,4 @@
+income
+entry
+admission
+receipt

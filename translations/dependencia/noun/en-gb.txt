@@ -1,0 +1,4 @@
+dependence
+department
+addiction
+dependency

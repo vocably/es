@@ -1,0 +1,3 @@
+parchment
+scroll
+diploma

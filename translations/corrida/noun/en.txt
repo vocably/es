@@ -1,0 +1,4 @@
+run
+bullfight
+rush
+chase

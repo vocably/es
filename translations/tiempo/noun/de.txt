@@ -1,0 +1,6 @@
+die Zeit
+das Wetter
+die Jahreszeit
+die Taktart
+der Zeitpunkt
+die Dauer

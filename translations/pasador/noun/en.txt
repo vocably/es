@@ -1,0 +1,4 @@
+bolt
+barrette
+pin
+passer

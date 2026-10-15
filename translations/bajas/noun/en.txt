@@ -1,0 +1,3 @@
+casualties
+drops
+cancellations

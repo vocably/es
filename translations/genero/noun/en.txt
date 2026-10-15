@@ -1,0 +1,5 @@
+gender
+genre
+kind
+type
+genus

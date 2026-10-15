@@ -1,0 +1,4 @@
+means
+environment
+middle
+resource

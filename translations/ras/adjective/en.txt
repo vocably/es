@@ -1,0 +1,3 @@
+level
+flat
+close-cropped

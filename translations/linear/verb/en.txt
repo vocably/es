@@ -1,0 +1,3 @@
+to draw lines
+to arrange in a line
+to align

@@ -1,0 +1,4 @@
+depended
+was dependent
+relied
+was relying

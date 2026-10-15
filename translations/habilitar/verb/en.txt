@@ -1,0 +1,4 @@
+enable
+authorize
+qualify
+fit out

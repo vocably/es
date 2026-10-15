@@ -1,0 +1,3 @@
+die Stimmgabel
+der Tonumfang
+der Ambitus

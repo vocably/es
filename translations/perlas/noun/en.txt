@@ -1,0 +1,3 @@
+pearls
+gems
+beads

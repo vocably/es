@@ -1,0 +1,4 @@
+ligature
+bandage
+tie
+bond

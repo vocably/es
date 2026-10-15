@@ -1,0 +1,2 @@
+self-repair
+self-healing

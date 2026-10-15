@@ -1,0 +1,3 @@
+isolated
+remote
+cut off

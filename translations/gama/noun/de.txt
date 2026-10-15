@@ -1,0 +1,4 @@
+die Palette
+die Reihe
+das Sortiment
+die Skala

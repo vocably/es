@@ -1,0 +1,4 @@
+grain
+spot
+pip
+lump

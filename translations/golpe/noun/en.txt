@@ -1,0 +1,5 @@
+blow
+hit
+strike
+coup
+shock

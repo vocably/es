@@ -1,0 +1,3 @@
+tent
+carp
+awning

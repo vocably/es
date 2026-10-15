@@ -1,0 +1,3 @@
+stump
+nub
+stub

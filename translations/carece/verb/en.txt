@@ -1,0 +1,3 @@
+lacks
+is lacking
+is without

@@ -1,0 +1,4 @@
+trip
+outbound journey
+first leg
+departure

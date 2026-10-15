@@ -1,0 +1,5 @@
+action
+acte
+part
+activité
+opération

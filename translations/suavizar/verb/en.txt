@@ -1,0 +1,3 @@
+soften
+smooth
+ease

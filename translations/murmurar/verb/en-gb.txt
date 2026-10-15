@@ -1,0 +1,4 @@
+murmur
+grumble
+whisper
+gossip

@@ -1,0 +1,4 @@
+discovered
+uncovered
+revealed
+bare

@@ -1,0 +1,3 @@
+sidewalks
+benches
+platforms

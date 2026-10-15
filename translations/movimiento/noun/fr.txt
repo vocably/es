@@ -1,0 +1,5 @@
+mouvement
+agitation
+secousse
+tendance
+manœuvre

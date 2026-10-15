@@ -1,0 +1,4 @@
+dismount
+disassemble
+take apart
+debunk

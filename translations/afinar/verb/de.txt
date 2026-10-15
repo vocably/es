@@ -1,0 +1,4 @@
+stimmen
+abstimmen
+feinabstimmen
+verfeinern

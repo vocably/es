@@ -1,0 +1,4 @@
+lead
+bullet
+gray
+bore

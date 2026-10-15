@@ -1,0 +1,3 @@
+pantry
+larder
+storeroom

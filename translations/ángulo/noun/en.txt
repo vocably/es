@@ -1,0 +1,3 @@
+angle
+corner
+point of view

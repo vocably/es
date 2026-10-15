@@ -1,0 +1,3 @@
+small bump
+small stop
+minor collision

@@ -1,0 +1,4 @@
+slats
+boards
+tablets
+splints

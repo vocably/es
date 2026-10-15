@@ -1,0 +1,4 @@
+sauter
+bondir
+franchir
+exploser

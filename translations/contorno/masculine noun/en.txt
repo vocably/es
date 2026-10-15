@@ -1,0 +1,3 @@
+outline
+contour
+surroundings

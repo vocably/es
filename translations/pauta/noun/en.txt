@@ -1,0 +1,4 @@
+guideline
+pattern
+rule
+staff

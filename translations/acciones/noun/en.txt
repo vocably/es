@@ -1,0 +1,4 @@
+shares
+actions
+deeds
+operations

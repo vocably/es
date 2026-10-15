@@ -1,0 +1,4 @@
+der Stamm
+der Rumpf
+der Baumstamm
+der Torso

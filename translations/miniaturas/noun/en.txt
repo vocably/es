@@ -1,0 +1,3 @@
+miniatures
+thumbnails
+miniature paintings

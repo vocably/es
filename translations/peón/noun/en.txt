@@ -1,0 +1,4 @@
+pawn
+laborer
+footsoldier
+spinning top

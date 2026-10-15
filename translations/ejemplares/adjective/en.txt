@@ -1,0 +1,3 @@
+exemplary
+model
+perfect

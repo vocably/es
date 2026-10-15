@@ -1,0 +1,3 @@
+capacitor
+condenser
+heat exchanger

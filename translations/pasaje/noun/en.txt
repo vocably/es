@@ -1,0 +1,4 @@
+passage
+ticket
+aisle
+excerpt

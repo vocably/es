@@ -1,0 +1,4 @@
+harshness
+rawness
+severity
+crudeness

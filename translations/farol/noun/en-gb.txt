@@ -1,0 +1,4 @@
+lantern
+lighthouse
+bluff
+show

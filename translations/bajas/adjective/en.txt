@@ -1,0 +1,4 @@
+short
+low
+poor
+depressed

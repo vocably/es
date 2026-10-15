@@ -1,0 +1,3 @@
+healing
+cure
+recovery

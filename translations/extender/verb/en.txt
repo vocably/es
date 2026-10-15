@@ -1,0 +1,5 @@
+extend
+spread
+stretch
+reach
+prolong

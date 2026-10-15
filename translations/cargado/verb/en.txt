@@ -1,0 +1,5 @@
+loaded
+charged
+full
+heavy
+laden

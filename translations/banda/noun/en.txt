@@ -1,0 +1,5 @@
+band
+strip
+gang
+side
+conveyor belt

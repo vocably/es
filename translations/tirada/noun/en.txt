@@ -1,0 +1,4 @@
+throw
+run
+roll
+deal

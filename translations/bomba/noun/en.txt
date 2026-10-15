@@ -1,0 +1,4 @@
+bomb
+pump
+shock
+doughnut

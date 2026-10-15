@@ -1,0 +1,3 @@
+houses
+harbors
+shelters

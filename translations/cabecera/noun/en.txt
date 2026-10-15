@@ -1,0 +1,4 @@
+headboard
+header
+pillow
+capital

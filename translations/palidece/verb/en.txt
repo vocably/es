@@ -1,0 +1,3 @@
+pales
+fades
+grows dim

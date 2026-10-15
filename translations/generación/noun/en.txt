@@ -1,0 +1,4 @@
+generation
+production
+breed
+phase

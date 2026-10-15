@@ -1,0 +1,2 @@
+POS terminal
+point-of-sale terminal

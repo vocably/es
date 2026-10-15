@@ -1,0 +1,4 @@
+revolutions
+spins
+turns
+rotations

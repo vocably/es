@@ -1,0 +1,4 @@
+classes
+lessons
+types
+kinds
