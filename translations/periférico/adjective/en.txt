@@ -1,0 +1,3 @@
+peripheral
+outlying
+external

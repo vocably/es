@@ -1,0 +1,5 @@
+pianta
+stabilimento
+pavimento
+fabbrica
+piano

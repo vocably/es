@@ -1,0 +1,4 @@
+occupation
+job
+activity
+takeover

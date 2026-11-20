@@ -1,0 +1,3 @@
+controllo
+dominio
+comando
