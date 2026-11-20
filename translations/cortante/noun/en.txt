@@ -1,0 +1,3 @@
+cutter
+shear
+shear force

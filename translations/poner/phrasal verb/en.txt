@@ -1,0 +1,7 @@
+put
+place
+set
+turn on
+make
+add
+show

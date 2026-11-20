@@ -1,0 +1,4 @@
+hours
+time
+times
+o'clock

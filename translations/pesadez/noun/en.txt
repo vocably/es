@@ -1,0 +1,4 @@
+heaviness
+annoyance
+drag
+tediousness

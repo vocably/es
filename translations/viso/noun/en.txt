@@ -1,0 +1,4 @@
+sheen
+appearance
+semblance
+glint

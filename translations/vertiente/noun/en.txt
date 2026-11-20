@@ -1,0 +1,4 @@
+slope
+aspect
+side
+spring

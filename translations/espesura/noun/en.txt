@@ -1,0 +1,3 @@
+thickness
+thicket
+density

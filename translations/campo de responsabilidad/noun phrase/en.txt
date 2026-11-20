@@ -1,0 +1,2 @@
+area of responsibility
+scope of responsibility

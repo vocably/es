@@ -1,0 +1,4 @@
+offers
+provides
+gives
+bids

@@ -1,0 +1,2 @@
+self-management
+worker self-management

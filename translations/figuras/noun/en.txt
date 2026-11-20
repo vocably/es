@@ -1,0 +1,5 @@
+figures
+shapes
+statues
+personalities
+face cards

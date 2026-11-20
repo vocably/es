@@ -1,0 +1,3 @@
+tile
+floor tile
+paving stone

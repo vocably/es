@@ -1,0 +1,4 @@
+cartridge
+shell
+ink cartridge
+cone

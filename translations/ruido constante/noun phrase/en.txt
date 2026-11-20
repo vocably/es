@@ -1,0 +1,2 @@
+constant noise
+steady noise

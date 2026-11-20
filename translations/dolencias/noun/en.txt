@@ -1,0 +1,3 @@
+ailments
+conditions
+complaints

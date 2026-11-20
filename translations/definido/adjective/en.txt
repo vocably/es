@@ -1,0 +1,3 @@
+defined
+definite
+well-defined

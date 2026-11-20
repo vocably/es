@@ -1,0 +1,3 @@
+binomial
+duo
+pair

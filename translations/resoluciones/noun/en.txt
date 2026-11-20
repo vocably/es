@@ -1,0 +1,4 @@
+resolutions
+decisions
+rulings
+settlements

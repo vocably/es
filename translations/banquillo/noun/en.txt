@@ -1,0 +1,4 @@
+bench
+substitutes
+dock
+footstool

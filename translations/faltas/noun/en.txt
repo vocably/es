@@ -1,0 +1,5 @@
+fouls
+mistakes
+absences
+shortages
+faults

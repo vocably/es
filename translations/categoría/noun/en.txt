@@ -1,0 +1,4 @@
+category
+class
+rank
+level

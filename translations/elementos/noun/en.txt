@@ -1,0 +1,5 @@
+elements
+components
+items
+parts
+characters

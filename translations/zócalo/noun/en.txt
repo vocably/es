@@ -1,0 +1,5 @@
+baseboard
+socket
+plinth
+main square
+base

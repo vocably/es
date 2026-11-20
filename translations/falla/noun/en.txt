@@ -1,0 +1,4 @@
+fault
+failure
+flaw
+malfunction

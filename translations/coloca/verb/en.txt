@@ -1,0 +1,4 @@
+places
+puts
+positions
+sets

@@ -1,0 +1,3 @@
+compilations
+collections
+anthologies

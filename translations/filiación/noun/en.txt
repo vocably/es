@@ -1,0 +1,4 @@
+affiliation
+parentage
+filiation
+personal details

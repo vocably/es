@@ -1,0 +1,4 @@
+caste
+lineage
+breed
+stock

@@ -1,0 +1,4 @@
+declares
+states
+testifies
+reports

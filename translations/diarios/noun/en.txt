@@ -1,0 +1,3 @@
+newspapers
+diaries
+journals

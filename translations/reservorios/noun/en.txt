@@ -1,0 +1,4 @@
+reservoirs
+tanks
+repositories
+stores

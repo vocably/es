@@ -1,0 +1,2 @@
+game animal
+hunted animal

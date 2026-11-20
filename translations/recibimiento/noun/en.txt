@@ -1,0 +1,4 @@
+reception
+welcome
+greeting
+receiving room

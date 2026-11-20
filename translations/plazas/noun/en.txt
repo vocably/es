@@ -1,0 +1,5 @@
+squares
+plazas
+positions
+seats
+spots

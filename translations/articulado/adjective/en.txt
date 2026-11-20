@@ -1,0 +1,4 @@
+articulated
+articulate
+jointed
+hinged

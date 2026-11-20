@@ -1,0 +1,4 @@
+opens
+it opens
+is opened
+is open

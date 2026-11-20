@@ -1,0 +1,4 @@
+radiated
+irradiated
+beamed
+emitted

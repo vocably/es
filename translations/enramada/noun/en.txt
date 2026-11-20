@@ -1,0 +1,4 @@
+arbor
+bower
+leafy shelter
+branch-covered shed

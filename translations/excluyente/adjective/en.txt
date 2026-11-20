@@ -1,0 +1,3 @@
+exclusive
+exclusionary
+mutually exclusive

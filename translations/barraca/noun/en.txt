@@ -1,0 +1,4 @@
+shack
+hut
+stall
+barracks

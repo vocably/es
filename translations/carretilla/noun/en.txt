@@ -1,0 +1,4 @@
+wheelbarrow
+forklift
+hand truck
+dolly

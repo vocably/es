@@ -1,0 +1,4 @@
+leathers
+hides
+skins
+pelts

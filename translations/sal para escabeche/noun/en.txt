@@ -1,0 +1,2 @@
+pickling salt
+salt for pickling

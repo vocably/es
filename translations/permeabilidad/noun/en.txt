@@ -1,0 +1,4 @@
+permeability
+porosity
+receptiveness
+penetrability

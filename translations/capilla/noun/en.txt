@@ -1,0 +1,4 @@
+chapel
+choir
+hood
+oratory

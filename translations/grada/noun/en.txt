@@ -1,0 +1,3 @@
+bleachers
+step
+stand

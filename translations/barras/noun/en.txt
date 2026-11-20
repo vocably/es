@@ -1,0 +1,5 @@
+bars
+counters
+loaves
+rods
+stripes

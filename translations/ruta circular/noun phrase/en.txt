@@ -1,0 +1,2 @@
+loop trail
+circular route

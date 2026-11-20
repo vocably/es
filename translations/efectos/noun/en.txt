@@ -1,0 +1,4 @@
+effects
+consequences
+belongings
+personal effects

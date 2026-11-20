@@ -1,0 +1,3 @@
+pivot
+center
+post

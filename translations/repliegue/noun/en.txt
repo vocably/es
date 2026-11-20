@@ -1,0 +1,4 @@
+withdrawal
+retreat
+pullback
+fold

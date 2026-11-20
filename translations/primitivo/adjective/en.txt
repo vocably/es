@@ -1,0 +1,4 @@
+primitive
+original
+early
+rudimentary

@@ -1,0 +1,4 @@
+sides
+areas
+edges
+parts

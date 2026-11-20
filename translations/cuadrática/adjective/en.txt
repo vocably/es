@@ -1,0 +1,3 @@
+quadratic
+square
+second-degree

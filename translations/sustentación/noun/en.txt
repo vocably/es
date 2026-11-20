@@ -1,0 +1,4 @@
+support
+lift
+defense
+sustenance

@@ -1,0 +1,4 @@
+denomination
+designation
+name
+appellation

@@ -1,0 +1,4 @@
+lodging
+accommodations
+housing
+hosting

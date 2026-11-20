@@ -1,0 +1,2 @@
+external shock
+exogenous shock

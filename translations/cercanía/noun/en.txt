@@ -1,0 +1,4 @@
+closeness
+proximity
+vicinity
+surroundings

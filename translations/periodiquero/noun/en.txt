@@ -1,0 +1,3 @@
+newspaper vendor
+newsboy
+magazine rack

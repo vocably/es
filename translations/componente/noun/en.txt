@@ -1,0 +1,4 @@
+component
+member
+part
+ingredient

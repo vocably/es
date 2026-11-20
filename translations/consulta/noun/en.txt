@@ -1,0 +1,4 @@
+consultation
+appointment
+query
+doctor's office

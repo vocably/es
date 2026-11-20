@@ -1,0 +1,4 @@
+capacity
+seating capacity
+attendance
+gauging

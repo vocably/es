@@ -1,0 +1,4 @@
+reader
+scanner
+lector
+language assistant

@@ -1,0 +1,2 @@
+local election
+municipal election

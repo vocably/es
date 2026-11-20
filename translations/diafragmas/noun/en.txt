@@ -1,0 +1,4 @@
+diaphragms
+apertures
+membranes
+partitions

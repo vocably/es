@@ -1,0 +1,3 @@
+has walked
+has worked
+has been

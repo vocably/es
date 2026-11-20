@@ -1,0 +1,4 @@
+has failed
+has missed
+has malfunctioned
+has ruled

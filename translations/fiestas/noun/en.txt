@@ -1,0 +1,4 @@
+parties
+holidays
+festivals
+celebrations

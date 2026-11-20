@@ -1,0 +1,3 @@
+buffet
+all-you-can-eat buffet
+buffet table

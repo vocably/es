@@ -1,0 +1,2 @@
+German interface; prices in euros; German dates and times; German time zone
+German-language interface; euro pricing; German date and time formats; German timezone

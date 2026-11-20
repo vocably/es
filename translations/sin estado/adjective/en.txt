@@ -1,0 +1,3 @@
+stateless
+without a state
+non-stateful

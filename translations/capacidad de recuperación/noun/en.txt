@@ -1,0 +1,2 @@
+resilience
+capacity to recover

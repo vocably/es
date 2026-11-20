@@ -1,0 +1,4 @@
+records
+disks
+discs
+albums

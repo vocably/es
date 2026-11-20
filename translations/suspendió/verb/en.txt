@@ -1,0 +1,5 @@
+suspended
+failed
+halted
+postponed
+hung

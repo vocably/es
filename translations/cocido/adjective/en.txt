@@ -1,0 +1,4 @@
+cooked
+boiled
+fired
+exhausted

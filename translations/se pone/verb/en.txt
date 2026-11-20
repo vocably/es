@@ -1,0 +1,5 @@
+puts on
+gets (e.g., nervous)
+sets
+starts to
+is put

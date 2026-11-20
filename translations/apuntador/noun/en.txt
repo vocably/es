@@ -1,0 +1,4 @@
+pointer
+prompter
+laser pointer
+note-taker

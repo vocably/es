@@ -1,0 +1,4 @@
+satellites
+moons
+satellite states
+satellite towns

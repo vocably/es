@@ -1,0 +1,3 @@
+animals
+beasts
+brutes

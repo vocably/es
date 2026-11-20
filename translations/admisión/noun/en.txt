@@ -1,0 +1,4 @@
+admission
+admittance
+acceptance
+intake

@@ -1,0 +1,4 @@
+cure
+priest
+treatment
+curing

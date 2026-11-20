@@ -1,0 +1,5 @@
+outlets
+takes
+doses
+intakes
+captures

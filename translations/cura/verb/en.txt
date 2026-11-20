@@ -1,0 +1,3 @@
+cures
+heals
+treats

@@ -1,0 +1,2 @@
+open garage
+open parking garage

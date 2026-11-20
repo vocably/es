@@ -1,0 +1,4 @@
+pause
+break
+rest
+lull

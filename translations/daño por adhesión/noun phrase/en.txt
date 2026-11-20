@@ -1,0 +1,3 @@
+adhesion damage
+adhesive damage
+adhesive wear

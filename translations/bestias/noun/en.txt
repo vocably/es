@@ -1,0 +1,4 @@
+beasts
+animals
+brutes
+savages

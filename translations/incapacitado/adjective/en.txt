@@ -1,0 +1,3 @@
+incapacitated
+disabled
+unable

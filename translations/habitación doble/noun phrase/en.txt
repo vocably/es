@@ -1,0 +1,2 @@
+double room
+twin room

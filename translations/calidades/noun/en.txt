@@ -1,0 +1,4 @@
+qualities
+grades
+quality levels
+attributes

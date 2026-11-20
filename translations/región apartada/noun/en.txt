@@ -1,0 +1,2 @@
+remote region
+remote area

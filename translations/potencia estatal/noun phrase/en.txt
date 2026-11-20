@@ -1,0 +1,2 @@
+world power
+state power

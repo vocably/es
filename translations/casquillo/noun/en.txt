@@ -1,0 +1,4 @@
+shell casing
+bushing
+ferrule
+socket

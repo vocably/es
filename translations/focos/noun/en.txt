@@ -1,0 +1,4 @@
+spotlights
+light bulbs
+foci
+headlights

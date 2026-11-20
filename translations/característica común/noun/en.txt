@@ -1,0 +1,2 @@
+common characteristic
+shared trait

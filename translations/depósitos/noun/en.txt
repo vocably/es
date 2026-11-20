@@ -1,0 +1,4 @@
+deposits
+tanks
+warehouses
+storage facilities

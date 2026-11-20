@@ -1,0 +1,2 @@
+public area
+public space

@@ -1,0 +1,5 @@
+suspends
+fails
+postpones
+hangs
+halts

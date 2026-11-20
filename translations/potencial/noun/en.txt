@@ -1,0 +1,4 @@
+potential
+capacity
+power
+conditional

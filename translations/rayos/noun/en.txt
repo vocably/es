@@ -1,0 +1,4 @@
+rays
+lightning bolts
+beams
+spokes

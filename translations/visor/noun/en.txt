@@ -1,0 +1,4 @@
+viewfinder
+visor
+viewer
+sight

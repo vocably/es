@@ -1,0 +1,5 @@
+tensions
+stresses
+strains
+voltages
+pressures

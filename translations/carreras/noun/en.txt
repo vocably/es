@@ -1,0 +1,5 @@
+races
+careers
+degrees
+majors
+fares

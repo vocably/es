@@ -1,0 +1,5 @@
+print
+pattern
+appearance
+holy card
+stamp

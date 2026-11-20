@@ -1,0 +1,4 @@
+perception
+impression
+sense
+receipt

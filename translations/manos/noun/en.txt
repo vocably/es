@@ -1,0 +1,4 @@
+hands
+coats
+help
+skill

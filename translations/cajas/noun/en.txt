@@ -1,0 +1,4 @@
+boxes
+cash registers
+checkouts
+cases

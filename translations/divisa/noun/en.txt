@@ -1,0 +1,4 @@
+foreign currency
+currency
+badge
+motto

@@ -1,0 +1,3 @@
+has studied
+has taken
+has processed

@@ -1,0 +1,6 @@
+genres
+genders
+types
+goods
+fabrics
+kinds

@@ -1,0 +1,4 @@
+set square
+squadron
+squad
+angle bracket

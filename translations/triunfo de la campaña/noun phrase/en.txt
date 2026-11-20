@@ -1,0 +1,2 @@
+campaign victory
+campaign success

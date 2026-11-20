@@ -1,0 +1,2 @@
+hangman's rope
+hangman's noose

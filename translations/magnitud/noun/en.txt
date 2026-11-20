@@ -1,0 +1,4 @@
+magnitude
+size
+extent
+scale

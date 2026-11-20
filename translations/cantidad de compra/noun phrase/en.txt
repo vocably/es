@@ -1,0 +1,2 @@
+purchase quantity
+order quantity

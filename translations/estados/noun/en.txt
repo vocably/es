@@ -1,0 +1,4 @@
+states
+conditions
+statuses
+nations

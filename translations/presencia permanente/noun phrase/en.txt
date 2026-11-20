@@ -1,0 +1,3 @@
+permanent presence
+constant presence
+continuous presence

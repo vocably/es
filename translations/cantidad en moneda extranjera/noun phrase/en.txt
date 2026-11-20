@@ -1,0 +1,2 @@
+amount in foreign currency
+foreign currency amount

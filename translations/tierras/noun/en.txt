@@ -1,0 +1,5 @@
+lands
+land
+soils
+territories
+estates

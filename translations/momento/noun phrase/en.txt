@@ -1,0 +1,5 @@
+moment
+time
+instant
+while
+torque

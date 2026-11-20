@@ -1,0 +1,4 @@
+inventory
+stock
+stocktaking
+list of assets

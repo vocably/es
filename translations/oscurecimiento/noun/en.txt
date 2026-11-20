@@ -1,0 +1,4 @@
+darkening
+dimming
+obscuring
+obscuration

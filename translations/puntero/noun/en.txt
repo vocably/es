@@ -1,0 +1,6 @@
+pointer
+cursor
+hand
+leader
+front-runner
+point chisel

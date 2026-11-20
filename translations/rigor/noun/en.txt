@@ -1,0 +1,4 @@
+rigor
+severity
+harshness
+strictness

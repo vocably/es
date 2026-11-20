@@ -1,0 +1,4 @@
+stand
+platform
+dais
+podium

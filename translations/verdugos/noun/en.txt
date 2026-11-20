@@ -1,0 +1,5 @@
+executioners
+hangmen
+tormentors
+balaclavas
+shoots

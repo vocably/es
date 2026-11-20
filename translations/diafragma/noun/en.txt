@@ -1,0 +1,4 @@
+diaphragm
+aperture
+membrane
+cap

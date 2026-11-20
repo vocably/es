@@ -1,0 +1,2 @@
+holds (a position)
+occupies (a position)

@@ -1,0 +1,4 @@
+bearing
+carriage
+postage
+size

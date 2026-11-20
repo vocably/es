@@ -1,0 +1,2 @@
+window width
+width of the window

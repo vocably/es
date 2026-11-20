@@ -1,0 +1,4 @@
+prevents
+warns
+avoids
+prepares

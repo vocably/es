@@ -1,0 +1,2 @@
+alarm button
+panic button

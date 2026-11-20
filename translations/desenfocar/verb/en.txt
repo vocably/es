@@ -1,0 +1,3 @@
+to defocus
+to blur
+to get out of focus

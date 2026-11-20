@@ -1,0 +1,5 @@
+sector
+area
+segment
+industry
+section

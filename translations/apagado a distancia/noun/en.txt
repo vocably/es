@@ -1,0 +1,2 @@
+remote shutdown
+remote power-off

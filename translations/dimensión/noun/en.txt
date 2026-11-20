@@ -1,0 +1,5 @@
+dimension
+size
+scope
+magnitude
+aspect

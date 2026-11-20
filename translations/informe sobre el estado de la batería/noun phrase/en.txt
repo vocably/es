@@ -1,0 +1,2 @@
+battery health report
+battery status report

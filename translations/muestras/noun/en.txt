@@ -1,0 +1,4 @@
+samples
+specimens
+signs
+displays

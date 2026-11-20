@@ -1,0 +1,3 @@
+authorized
+approved
+permitted

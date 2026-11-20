@@ -1,0 +1,2 @@
+state power
+power of the state

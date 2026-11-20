@@ -1,0 +1,4 @@
+wanted
+tried
+loved
+refused (when negative)

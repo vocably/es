@@ -1,0 +1,3 @@
+tremor
+shaking
+quiver

@@ -1,0 +1,2 @@
+transient process
+transitional process

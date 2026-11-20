@@ -1,0 +1,4 @@
+stage
+platform
+wooden platform
+flamenco stage

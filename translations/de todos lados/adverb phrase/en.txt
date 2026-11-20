@@ -1,0 +1,2 @@
+from everywhere
+from all sides

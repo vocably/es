@@ -1,0 +1,4 @@
+joint
+articulation
+pronunciation
+enunciation

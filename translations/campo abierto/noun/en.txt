@@ -1,0 +1,3 @@
+open field
+open country
+open ground

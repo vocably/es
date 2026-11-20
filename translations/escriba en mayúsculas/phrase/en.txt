@@ -1,0 +1,2 @@
+print in capital letters
+write in uppercase

@@ -1,0 +1,4 @@
+laborers
+pawns
+farmhands
+peons

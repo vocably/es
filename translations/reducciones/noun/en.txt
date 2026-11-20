@@ -1,0 +1,4 @@
+reductions
+cuts
+decreases
+reductions (mission settlements)

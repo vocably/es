@@ -1,0 +1,3 @@
+owns
+possesses
+has

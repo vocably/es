@@ -1,0 +1,3 @@
+typology
+classification
+types

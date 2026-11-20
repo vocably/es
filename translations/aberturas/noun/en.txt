@@ -1,0 +1,4 @@
+openings
+apertures
+gaps
+slits

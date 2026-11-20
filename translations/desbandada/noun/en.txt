@@ -1,0 +1,3 @@
+stampede
+scattering
+mass exodus

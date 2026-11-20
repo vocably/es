@@ -1,0 +1,5 @@
+negative
+pessimistic
+unfavorable
+adverse
+harmful

@@ -1,0 +1,3 @@
+set design
+scenery
+stage design

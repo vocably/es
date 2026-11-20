@@ -1,0 +1,2 @@
+precision stopwatch
+chronometer

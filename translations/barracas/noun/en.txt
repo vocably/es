@@ -1,0 +1,4 @@
+shacks
+booths
+stalls
+huts

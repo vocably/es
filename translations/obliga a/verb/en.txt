@@ -1,0 +1,3 @@
+obliges
+forces
+requires

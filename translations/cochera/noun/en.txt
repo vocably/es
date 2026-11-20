@@ -1,0 +1,4 @@
+garage
+carport
+depot
+carriage house

@@ -1,0 +1,3 @@
+indicator
+gauge
+turn signal

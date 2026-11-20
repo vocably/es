@@ -1,0 +1,5 @@
+bands
+gangs
+stripes
+sashes
+cushions

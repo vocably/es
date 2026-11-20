@@ -1,0 +1,3 @@
+seal
+security seal
+tamper-evident seal

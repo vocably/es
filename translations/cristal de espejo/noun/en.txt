@@ -1,0 +1,2 @@
+mirror glass
+mirror pane

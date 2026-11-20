@@ -1,0 +1,3 @@
+attempts
+tries
+efforts

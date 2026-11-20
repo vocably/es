@@ -1,0 +1,4 @@
+hospitalization
+admission
+commitment
+confinement

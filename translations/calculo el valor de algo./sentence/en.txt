@@ -1,0 +1,2 @@
+I calculate the value of something.
+I'm calculating the value of something.

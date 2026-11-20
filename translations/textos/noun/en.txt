@@ -1,0 +1,4 @@
+texts
+passages
+textbooks
+text messages

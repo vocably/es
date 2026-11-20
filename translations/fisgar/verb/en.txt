@@ -1,0 +1,3 @@
+to snoop
+to pry
+to nose around

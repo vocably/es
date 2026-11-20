@@ -1,0 +1,4 @@
+license
+permit
+leave
+licence

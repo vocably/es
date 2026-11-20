@@ -1,0 +1,4 @@
+trades
+jobs
+occupations
+services

@@ -1,0 +1,3 @@
+formality
+seriousness
+reliability

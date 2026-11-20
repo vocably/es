@@ -1,0 +1,3 @@
+compendiums
+summaries
+digests

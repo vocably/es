@@ -1,0 +1,2 @@
+cellar door
+cargo hold door

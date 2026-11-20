@@ -1,0 +1,4 @@
+hides
+skins
+wineskins
+pelts

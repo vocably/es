@@ -1,0 +1,4 @@
+professorships
+chairs
+university departments
+lecture halls

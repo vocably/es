@@ -1,0 +1,2 @@
+pushover opponent
+weak opponent

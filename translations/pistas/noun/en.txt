@@ -1,0 +1,5 @@
+clues
+tracks
+runways
+courts
+hints

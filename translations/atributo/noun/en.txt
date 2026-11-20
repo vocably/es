@@ -1,0 +1,5 @@
+attribute
+trait
+quality
+characteristic
+property

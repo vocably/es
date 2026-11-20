@@ -1,0 +1,2 @@
+to log out
+to leave the session

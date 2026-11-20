@@ -1,0 +1,4 @@
+artifacts
+devices
+appliances
+gadgets

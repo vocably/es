@@ -1,0 +1,4 @@
+failed
+malfunctioned
+missed
+ruled

@@ -1,0 +1,4 @@
+constant
+vital sign
+recurring theme
+fixed value

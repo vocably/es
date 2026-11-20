@@ -1,0 +1,5 @@
+galleries
+arcades
+tunnels
+shopping arcades
+balconies

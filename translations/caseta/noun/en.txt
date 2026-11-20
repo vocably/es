@@ -1,0 +1,5 @@
+shed
+booth
+hut
+cabin
+stall

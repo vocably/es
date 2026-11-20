@@ -1,0 +1,4 @@
+rules out
+discards
+dismisses
+rejects

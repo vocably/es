@@ -1,0 +1,3 @@
+slab
+flagstone
+flat stone

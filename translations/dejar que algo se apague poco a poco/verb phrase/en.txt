@@ -1,0 +1,2 @@
+let something fade out gradually
+let something die down slowly

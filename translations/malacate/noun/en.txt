@@ -1,0 +1,4 @@
+winch
+hoist
+horse-driven winch
+windlass

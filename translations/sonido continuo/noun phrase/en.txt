@@ -1,0 +1,3 @@
+continuous sound
+steady sound
+continuous tone
